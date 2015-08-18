@@ -1,4 +1,4 @@
-﻿Title:  [easy] challenge #1
+#  [easy] challenge #1
 Text:  create a program that will ask the users name, age, and reddit username. have it tell them the information back, in the format:
 
     your name is (blank), you are (blank) years old, and your username is (blank)
@@ -6,13 +6,13 @@ Text:  create a program that will ask the users name, age, and reddit username. 
 for extra credit, have the program log this information in a file to be accessed later.
 
 
-Title:  [easy] challenge #2
+#  [easy] challenge #2
 Text:  Hello, coders! An important part of programming is being able to apply your programs, so your challenge for today is to create a calculator application that has use in your life. It might be an interest calculator, or it might be something that you can use in the classroom. For example, if you were in physics class, you might want to make a F = M * A calc.
 
 EXTRA CREDIT: make the calculator have multiple functions! Not only should it be able to calculate F = M * A, but also A = F/M, and M = F/A!
 
 
-Title:  [2/11/2012] Challenge #3 [easy]
+#  [2/11/2012] Challenge #3 [easy]
 Text:  Welcome to cipher day!
 
 write a program that can encrypt texts with an alphabetical caesar cipher. This cipher can ignore numbers, symbols, and whitespace.
@@ -20,7 +20,7 @@ write a program that can encrypt texts with an alphabetical caesar cipher. This 
 for extra credit, add a "decrypt" function to your program!
 
 
-Title:  [2/12/2012] Challenge #4 [easy]
+#  [2/12/2012] Challenge #4 [easy]
 Text:  You're challenge for today is to create a random password generator! 
 
 For extra credit, allow the user to specify the amount of passwords to generate.
@@ -28,7 +28,7 @@ For extra credit, allow the user to specify the amount of passwords to generate.
 For even more extra credit, allow the user to specify the length of the strings he wants to generate!
 
 
-Title:  [2/12/2012] Challenge #5 [easy]
+#  [2/12/2012] Challenge #5 [easy]
 Text:  Your challenge for today is to create a program which is password protected, and wont open unless the correct user and password is given. 
 
 For extra credit, have the user and password in a seperate .txt file.
@@ -36,14 +36,14 @@ For extra credit, have the user and password in a seperate .txt file.
 for even more extra credit, break into your own program :)
 
 
-Title:  [2/14/2012] Challenge #6 [easy]
+#  [2/14/2012] Challenge #6 [easy]
 Text:  You're challenge for today is to create a program that can calculate pi accurately to at least 30 decimal places. 
 
 Try not to cheat :)
 
 
 
-Title:  [2/15/2012] Challenge #7 [easy]
+#  [2/15/2012] Challenge #7 [easy]
 Text:  Write a program that can translate Morse code in the format of ...---...
 
 A space and a slash will be placed between words.   ..- / --.-
@@ -57,20 +57,20 @@ This is your Morse to translate:
 .... . .-.. .-.. --- / -.. .- .. .-.. -.-- / .--. .-. --- --. .-. .- -- -- . .-. / --. --- --- -.. / .-.. ..- -.-. -.- / --- -. / - .... . / -.-. .... .- .-.. .-.. . -. --. . ... / - --- -.. .- -.--
 
 
-Title:  [2/16/2012] Challenge #8 [easy]
+#  [2/16/2012] Challenge #8 [easy]
 Text:  write a program that will print the song "99 bottles of beer on the wall".
 
 for extra credit, do not allow the program to print each loop on a new line.
 
 
-Title:  [2/17/2012] Challenge #9 [easy]
+#  [2/17/2012] Challenge #9 [easy]
 Text:  write a program that will allow the user to input digits, and arrange them in numerical order.
 
 for extra credit, have it also arrange strings in alphabetical order
 
 
 
-Title:  [2/18/2012] Challenge #10 [easy]
+#  [2/18/2012] Challenge #10 [easy]
 Text:  The exercise today asks you to validate a telephone number, as if written on an input form. Telephone numbers can be written as ten digits, or with dashes, spaces, or dots between the three segments, or with the area code parenthesized; both the area code and any white space between segments are optional.
 
 Thus, all of the following are valid telephone numbers: 1234567890, 123-456-7890, 123.456.7890, (123)456-7890, (123) 456-7890 (note the white space following the area code), and 456-7890.
@@ -79,13 +79,13 @@ The following are not valid telephone numbers: 123-45-6789, 123:4567890, and 123
 
 
 
-Title:  [2/19/2012] Challenge #11 [easy]
+#  [2/19/2012] Challenge #11 [easy]
 Text:  The program should take three arguments. The first will be a day, the second will be month, and the third will be year. Then, your program should compute the day of the week that date will fall on.
 
 
 
 
-Title:  [2/20/2012] Challenge #12 [easy]
+#  [2/20/2012] Challenge #12 [easy]
 Text:  Write a small program that can take a string:
 
 "hi!"
@@ -106,11 +106,11 @@ etc...
 
 
 
-Title:  [2/21/2012] Challenge #13 [easy]
+#  [2/21/2012] Challenge #13 [easy]
 Text:  Find the number of the year for the given date. For example, january 1st would be 1, and december 31st is 365.
 
 
-Title:  [2/23/2012] Challenge #14 [easy]
+#  [2/23/2012] Challenge #14 [easy]
 Text:  Input: list of elements and a block size k or some other variable of your choice
 
 Output: return the list of elements with every block of k elements reversed, starting from the beginning of the list. 
@@ -118,11 +118,11 @@ Output: return the list of elements with every block of k elements reversed, sta
 For instance, given the list 12, 24, 32, 44, 55, 66 and the block size 2, the result is 24, 12, 44, 32, 66, 55. 
 
 
-Title:  [2/24/2012] Challenge #15 [easy]
+#  [2/24/2012] Challenge #15 [easy]
 Text:  Write a program to left or right justify a text file
 
 
-Title:  [2/27/2012] Challenge #16 [easy]
+#  [2/27/2012] Challenge #16 [easy]
 Text:  Hi folks! We are in the midst of discussing how this subreddit will go about but for now how about we just concentrate on challenges!
 
 Write a function that takes two strings and removes from the first string any character that appears in the second string. For instance, if the first string is “Daily Programmer” and the second string is “aeiou ” the result is “DlyPrgrmmr”.  
@@ -130,7 +130,7 @@ note: the second string has [space] so the space between "Daily Programmer" is r
 
 
 
-Title:  [3/4/2012] Challenge #17 [easy]
+#  [3/4/2012] Challenge #17 [easy]
 Text:  write an application which will print a triangle of stars of user-specified height, with each line having twice as many stars as the last.
 sample output:
 
@@ -146,7 +146,7 @@ hint: in many languages, the "+" sign concatenates strings.
 bonus features: print the triangle in reverse, print the triangle right justified
 
 
-Title:  [3/5/2012] Challenge #18 [easy]
+#  [3/5/2012] Challenge #18 [easy]
 Text:  Often times in commercials, phone numbers contain letters so that they're easy to remember (e.g. 1-800-VERIZON). Write a program that will convert a phone number that contains letters into a phone number with only numbers and the appropriate dash. Click [here](http://en.wikipedia.org/wiki/Telephone_keypad) to learn more about the telephone keypad.
 
 Example Execution: 
@@ -159,25 +159,25 @@ Output: 1-800-266-2278
 
 
 
-Title:  [3/7/2012] Challenge #19 [easy]
+#  [3/7/2012] Challenge #19 [easy]
 Text:  Challenge #19 will use [The Adventures of Sherlock Holmes](http://www.gutenberg.org/cache/epub/1661/pg1661.txt) from [Project Gutenberg](http://www.gutenberg.org).
 
 Write a program that counts the number of alphanumeric characters there are in The Adventures of Sherlock Holmes.  Exclude the Project Gutenberg header and footer, book title, story titles, and chapters.  Post your code and the alphanumeric character count.
 
 
 
-Title:  [3/8/2012] Challenge #20 [easy]
+#  [3/8/2012] Challenge #20 [easy]
 Text:  create a program that will find all prime numbers below 2000
 
 
-Title:  [3/9/2012] Challenge #21 [easy]
+#  [3/9/2012] Challenge #21 [easy]
 Text:  Input: a number
 
 Output : the next higher number that uses the same set of digits. 
 
 
 
-Title:  [3/10/2012] Challenge #22 [easy]
+#  [3/10/2012] Challenge #22 [easy]
 Text:  Write a program that will compare two lists, and append any elements in the second list that doesn't exist in the first.
 
 input: ["a","b","c",1,4,], ["a", "x", 34, "4"]
@@ -186,7 +186,7 @@ output: ["a", "b", "c",1,4,"x",34, "4"]
 
 
 
-Title:  [3/13/2012] Challenge #23 [easy]
+#  [3/13/2012] Challenge #23 [easy]
 Text:  Input: a list
 
 Output: Return the two halves as different lists. 
@@ -196,13 +196,13 @@ If the input list has an odd number, the middle item can go to any of the list.
 Your task is to write the function that splits a list in two halves.
 
 
-Title:  [3/15/2012] Challenge #25 [easy]
+#  [3/15/2012] Challenge #25 [easy]
 Text:  In an election, the person with the majority of the votes is the winner. Sometimes due to similar number of votes, there are no winners. 
 
 Your challenge is to write a program that determines the winner of a vote, or shows that there are no winners due to a lack of majority.
 
 
-Title:  [3/16/2012] Challenge #26 [easy]
+#  [3/16/2012] Challenge #26 [easy]
 Text:  you have a string "ddaaiillyypprrooggrraammeerr". We want to remove all the consecutive duplicates and put them in a separate string, which yields two separate instances of the string "dailyprogramer".
 
 use this list for testing:
@@ -224,7 +224,7 @@ input: "flabby aapples"
 expected output: "flaby aples" "bap"
 
 
-Title:  [3/17/2012] Challenge #27 [easy]
+#  [3/17/2012] Challenge #27 [easy]
 Text:  Write a program that accepts a year as input and outputs the century the year belongs in (e.g. 18th century's year ranges are 1701 to 1800) and whether or not the year is a leap year.  Pseudocode for leap year can be found [here](http://en.wikipedia.org/wiki/Leap_year#Algorithm).
 
 Sample run:
@@ -242,7 +242,7 @@ Century:  19
 Leap Year:  No
 
 
-Title:  [3/20/2012] Challenge #28 [easy]
+#  [3/20/2012] Challenge #28 [easy]
 Text:  The array duplicates problem is when one integer is in an array for more than once.
 
 If you are given an array with integers between 1 and 1,000,000 or in some other interval and one integer is in the array twice. How can you determine which one?
@@ -252,7 +252,7 @@ Your task is to write code to solve the challenge.
 Note: try to find the most efficient way to solve this challenge. 
 
 
-Title:  [3/22/2012] Challenge #29 [easy]
+#  [3/22/2012] Challenge #29 [easy]
 Text:  A [Palindrome](http://en.wikipedia.com/wiki/Palindrome) is a sequence that is the same in reverse as it is forward.
 
 I.e. hannah, 12321.
@@ -262,7 +262,7 @@ Your task is to write a function to determine whether a given string is palindro
 Bonus:  Support multiple lines in your function to validate Demetri Martin's [224 word palindrome poem](http://www.pastemagazine.com/articles/2009/02/demetri-martins-palindrome-poem.html).
 
 
-Title:  [3/26/2012] Challenge #30 [easy]
+#  [3/26/2012] Challenge #30 [easy]
 Text:  Write a program that takes a list of integers and a target number and determines if any two integers in the list sum to the target number. If so, return the two numbers. If not, return an indication that no such integers exist.
 
 
@@ -270,7 +270,7 @@ Text:  Write a program that takes a list of integers and a target number and det
 
 
 
-Title:  [3/27/2012] Challenge #31 [easy]
+#  [3/27/2012] Challenge #31 [easy]
 Text:  Write a function that takes two base-26 numbers in which digits are represented by letters with A=0, B=1, … Z=25 and returns their product using the same notation. As an example, CSGHJ × CBA = FNEUZJA.
 
 Your task is to write the base-26 multiplication function.
@@ -278,7 +278,7 @@ Your task is to write the base-26 multiplication function.
 Try to be very efficient in your code!
 
 
-Title:  [3/28/2012] Challenge #32 [easy]
+#  [3/28/2012] Challenge #32 [easy]
 Text:  lets simulate a roulette wheel!  
 a program that takes as input your bet, and gives as output how much you won, with the appropriate probability
 
@@ -287,7 +287,7 @@ write a program that will take a players bet and output the resulting spin and p
 try using an american roulette wheel (which has the 00 slot) to add a slight twist. and try to incorporate as many complex bets as you can to. a comprehensive list can be found [here](http://en.wikipedia.org/wiki/Roulette#Bet_odds_table)
 
 
-Title:  [3/30/2012] Challenge #33 [easy]
+#  [3/30/2012] Challenge #33 [easy]
 Text:  This would be a good study tool too. I made one myself and I thought it would also be a good challenge.
 
 Write a program that prints a string from a list at random, expects input, checks for a right or wrong answer, and keeps doing it until the user types "exit". If given the right answer for the string printed, it will print another and continue on. If the answer is wrong, the correct answer is printed and the program continues. 
@@ -300,7 +300,7 @@ What is reddit?,website with cats
 Translate: hola,hello
 
 
-Title:  [3/31/2012] Challenge #34 [easy]
+#  [3/31/2012] Challenge #34 [easy]
 Text:  A very basic challenge:
 In this challenge, the 
 
@@ -311,7 +311,7 @@ output: the sum of the squares of the two larger numbers.
 Your task is to write the indicated challenge.
 
 
-Title:  [4/3/2012] Challenge #35 [easy]
+#  [4/3/2012] Challenge #35 [easy]
 Text:  Write a program that will take a number and print a right triangle attempting to use all numbers from 1 to that number.
 
 Sample Run:
@@ -342,7 +342,7 @@ Output:
 1
 
 
-Title:  [4/5/2012] Challenge #36 [easy]
+#  [4/5/2012] Challenge #36 [easy]
 Text:  1000 Lockers Problem.
 
 In an imaginary high school there exist 1000 lockers labelled 1, 2, ..., 1000. All of them are closed. 1000 students are to "toggle" a locker's state. * The first student toggles all of them * The second one toggles every other one (i.e, 2, 4, 6, ...) * The third one toggles the multiples of 3 (3, 6, 9, ...) and so on until all students have finished.
@@ -352,7 +352,7 @@ To toggle means to close the locker if it is open, and to open it if it's closed
 How many and which lockers are open in the end?
 
 
-Title:  [4/8/2012] Challenge #37 [easy]
+#  [4/8/2012] Challenge #37 [easy]
 Text:  write a program that takes
 
 input :  a file as an argument
@@ -361,18 +361,18 @@ output: counts the total number of lines.
 
 for bonus, also count the number of words in the file.
 
-Title:  [4/10/2012] Challenge #38 [easy]
+#  [4/10/2012] Challenge #38 [easy]
 Text:  Implement [Dijkstra's algorithm](http://en.wikipedia.org/wiki/Dijkstra's_algorithm) in any way you can :)
 
 
-Title:  [4/12/2012] Challenge #39 [easy]
+#  [4/12/2012] Challenge #39 [easy]
 Text:  
 
 You are to write a function that displays the numbers from 1 to an input parameter n, one per line, except that if the current number is divisible by 3 the function should write “Fizz” instead of the number, if the current number is divisible by 5 the function should write “Buzz” instead of the number, and if the current number is divisible by both 3 and 5 the function should write “FizzBuzz” instead of the number. 
 
 For instance, if n is 20, the program should write 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz, 16, 17, Fizz, 19, and Buzz on twenty successive lines.
 
-Title:  [4/16/2012] Challenge #40 [easy]
+#  [4/16/2012] Challenge #40 [easy]
 Text:  Print the numbers from 1 to 1000 without using any loop or conditional statements. 
 
 Don’t just write the printf() or cout statement 1000 times.
@@ -380,7 +380,7 @@ Don’t just write the printf() or cout statement 1000 times.
 Be creative and try to find the most efficient way!
 
 
-Title:  [4/19/2012] Challenge #41 [easy]
+#  [4/19/2012] Challenge #41 [easy]
 Text:  Write a program that will accept a sentence as input and then output that sentence surrounded by some type of an ASCII decoratoin banner.
 
 Sample run:
@@ -396,7 +396,7 @@ Output
 Bonus:  If the sentence is too long, move words to the next line.
 
 
-Title:  [4/23/2012] Challenge #42 [easy]
+#  [4/23/2012] Challenge #42 [easy]
 Text:  Write a program that prints out the lyrics for "Ninety-nine bottles of beer", "Old McDonald had a farm" or "12 days of Christmas".
 
 If you choose "Ninety-nine bottles of beer", you need to spell out the number, not just write the digits down. It's "Ninety-nine bottles of beer on the wall", not "99 bottles of beer"!
@@ -406,13 +406,13 @@ For Old McDonald, you need to include at least 6 animals: a cow, a chicken, a tu
 Make your code shorter than the song it prints out!
 
 
-Title:  [4/24/2012] Challenge #43 [easy]
+#  [4/24/2012] Challenge #43 [easy]
 Text:  Today is a common interview question.
 
 Given a binary tree t and two elements of the tree, m and n, with m < n, find the lowest element of the tree (farthest from the root) that is an ancestor of both m and n.
 
 
-Title:  [4/25/2012] Challenge #44 [easy]
+#  [4/25/2012] Challenge #44 [easy]
 
 Text:  Write a program that divides up some input text into sentences and then determines which sentence in the input has the most words. Print out the sentence with the most words and the number of words that are in it. Optionally, also print out all words in that sentence that are longer than 4 characters. 
 
@@ -440,7 +440,7 @@ instruction.
 
 
 
-Title:  [4/27/2012] Challenge #45 [easy]
+#  [4/27/2012] Challenge #45 [easy]
 Text:  Your challenge today is to write a program that can draw a checkered grid (like a chessboard) to any dimension. For instance, a 3 by 8 board might look like this: 
 
     *********************************
@@ -477,13 +477,13 @@ Yours doesn't have to look like mine, you can make it look any way you want (now
 
 
 
-Title:  [4/30/2012] Challenge #46 [easy]
+#  [4/30/2012] Challenge #46 [easy]
 Text:  The population count of a bitstring is the number of set bits (1-bits) in the string. For instance, the population count of the number 23, which is represented in binary as 10111 is 4.
 
 Your task is to write a function that determines the population count of a number representing a bitstring
 
 
-Title:  [5/2/2012] Challenge #47 [easy]
+#  [5/2/2012] Challenge #47 [easy]
 Text:  Your task today is to implement one of the oldest ciphers known, the so-called [Caesar cipher](http://en.wikipedia.org/wiki/Caesar_cipher) (or *Caesar shift*, as it is sometimes called). It works like this: for every letter you want to encrypt, you shift it some number of places down the alphabet to get the letter in the cipher. 
 
 So, for instance, in a Caesar cipher with a shift of 3, "A" becomes "D", "B" becomes "E", "C" becomes "F", and so on. At the end of the alphabet it wraps around, so "W" becomes "Z", "X" becomes "A", "Y" becomes "B" and "Z" becomes "C". If you encrypt "Hello" with a shift of 3, you get "Khoor".
@@ -504,12 +504,12 @@ Bonus: Using your program, become a code-cracker and decrypt this cipher (posted
     Olsw! Olsw! P't ilpun ylwylzzlk!
 
 
-Title:  [5/4/2012] Challenge #48 [easy]
+#  [5/4/2012] Challenge #48 [easy]
 Text:  Take an array of integers and partition it so that all the even integers in the array precede all the odd integers in the array. Your solution must take linear time in the size of the array and operate in-place with only a constant amount of extra space.
 Your task is to write the indicated function.
 
 
-Title:  [5/7/2012] Challenge #49 [easy]
+#  [5/7/2012] Challenge #49 [easy]
 Text:  The [Monty Hall Problem](http://en.wikipedia.org/wiki/Monty_Hall_problem) is a probability brain teaser that has a rather unintuitive solution. 
 
 The gist of it, taken from Wikipedia:
@@ -520,7 +520,7 @@ Your task is to write a function that will compare the strategies of *switching*
 
 If you want to, you can for simplicity's sake assume that the player picks the first door every time. The only aspect of this scenario that needs to vary is what is behind each door. 
 
-Title:  [5/9/2012] Challenge #50 [easy]
+#  [5/9/2012] Challenge #50 [easy]
 Text:  Hello everyone! As of today, we have finished our 50th challenge and it has been a pleasure giving out these challenges to you all. You have all been amazing with the solutions and seeing you all i hope i become a good programmer like you all one day :D
 
 If i did any mistakes in challenges please forgive me and as you may have noticed we post once in two days or so to give you time to complete these. Really sorry if you wanted everyday posts .. but due to our busy lives, maybe sometime in future or maybe when i leave this subreddit, you may have that in the new management :) Thank You one and all ... As for now I have given today's two challenges are from [Google Code Jam Qualification Round Africa 2010](http://code.google.com/codejam/contest/dashboard?c=351101#s=p0)
@@ -534,7 +534,7 @@ For instance, with C=100 and L={5,75,25} the solution is 2,3; with C=200 and L={
 PROBLEM A IN THE LINK. PLEASE USE IT TO CLARIFY YOUR DOUBTS
 
 
-Title:  [5/11/2012] Challenge #51 [easy]
+#  [5/11/2012] Challenge #51 [easy]
 Text:  Write a program that given an array A and a number N, generates all combinations of items in A of length N.
 
 That is, if you are given the array [1,2,3,4,5] and 3, you're supposed to generate
@@ -553,7 +553,7 @@ That is, if you are given the array [1,2,3,4,5] and 3, you're supposed to genera
 Note that order doesn't matter when counting combinations, both [1,2,3] and [3,2,1] are considered the same. Order also doesn't matter in the output of the combinations, as long as you generate all of them, you don't have to worry about what order they pop out. You can also assume that every element of the array is distinct.
 
 
-Title:  [5/14/2012] Challenge #52 [easy]
+#  [5/14/2012] Challenge #52 [easy]
 Text:  Imagine each letter and its position within the alphabet. Now assign each letter its corresponding value ie a=1, b=2,... z=26. When given a list of words, order the words by the sum of the values of the letters in their names.
 
 Example: Shoe and Hat
@@ -567,7 +567,7 @@ So the order would be Hat, Shoe.
 For extra points, divide by the sum by the number of letters in that word and then rank them.
 
 
-Title:  [5/16/2012] Challenge #53 [easy]
+#  [5/16/2012] Challenge #53 [easy]
 Text:  Write a function that given two sorted lists, returns a list whith the two lists merged together into one sorted list. 
 
 So, for instance, for inputs [1,5,7,8] and [2,3,4,7,9] it should return [1,2,3,4,5,7,7,8,9]. 
@@ -575,7 +575,7 @@ So, for instance, for inputs [1,5,7,8] and [2,3,4,7,9] it should return [1,2,3,4
 Try and make your code as efficient as possible. 
 
 
-Title:  [5/19/2012] Challenge #54 [easy]
+#  [5/19/2012] Challenge #54 [easy]
 Text:  A transposition cipher we'll call the "matrix cipher" can be defined as follows: write each character in the text that you want to encrypt in a matrix of some specified width, where the width is the key of the cipher. So, for instance, if you wanted to encrypt "The cake is a lie!" with the key 3, you would write it like so (the spaces are replaced with underscores for clarity):
 
     T h e
@@ -615,11 +615,11 @@ Try your code-cracker on this text, using the clue that the message starts with 
 As you can see, there's plenty of punctuation in this text, but there are no new-lines, it is just one chunk of text. And again, all spaces have been replaced with underscores for clarity, but you should remove those to make the cleartext readable. If you do solve it, please put four spaces before the cleartext if you post it here, to hide it for people who want to solve it themselves.
 
 
-Title:  [5/21/2012] Challenge #55 [easy]
+#  [5/21/2012] Challenge #55 [easy]
 Text:  Write a program to solve the sliding window minimum problem using any of the methods possible. [This](http://home.tiac.net/~cri/2001/slidingmin.html) could be a helpful link. 
 
 
-Title:  [5/23/2012] Challenge #56 [easy]
+#  [5/23/2012] Challenge #56 [easy]
 Text:  The ABACABA sequence is defined as follows: start with the first letter of the alphabet ("a"). This is the first iteration. The second iteration, you take the second letter ("b") and surround it with all of the first iteration (just "a" in this case). Do this for each iteration, i.e. take two copies of the previous iteration and sandwich them around the next letter of the alphabet. 
 
 Here are the first 5 items in the sequence:
@@ -638,7 +638,7 @@ Write a computer program that prints the 26th iteration of this sequence to a fi
 BONUS: try and limit the amount of memory your program needs to finish, while still getting a reasonably quick runtime. Find a good speed/memory tradeoff that keeps both memory usage low (around a megabyte, at most) and the runtime short (around a few seconds). 
 
 
-Title:  [5/25/2012] Challenge #57 [easy]
+#  [5/25/2012] Challenge #57 [easy]
 Text:  ~~Your task is to implement [Ackermann Function](http://en.wikipedia.org/wiki/Ackermann_function) in the most efficient way possible.~~
 
 ~~Please refer the wiki page link given for its explanation.~~
@@ -653,7 +653,7 @@ Output : a part of the sequence in the list with the maximum sum.
 
 
 
-Title:  [5/28/2012] Challenge #58 [easy]
+#  [5/28/2012] Challenge #58 [easy]
 Text:  As computer programmers are well aware, it can be very useful to write numbers using numerical bases other than the familiar base 10 notation we use in everyday life. In computer programming, [base 2](http://en.wikipedia.org/wiki/Binary_number) and [base 16](http://en.wikipedia.org/wiki/Hexadecimal) are especially handy. In base 2, the number 1234 becomes 10011010010 and in base 16 it becomes 4D2. 
 
 Because there are only 10 regular digits, when numbers are written in base 16, the first few letters of the alphabet are added to represent the remaining required digits, so 'A' stands in for 10, 'B' for 11, 'C' for 12, 'D' for 13, 'E' for 14 and 'F' for 15. 
@@ -671,7 +671,7 @@ BONUS: A number is said to be "palindromic in base N" if, when written in base N
 In what bases is the number 10858 palindromic?
 
 
-Title:  [6/2/2012] Challenge #59 [easy]
+#  [6/2/2012] Challenge #59 [easy]
 Text:  Write a program that given two strings, finds out if the second string is contained in the first, and if it is, where it is.
 
 I.e. given the strings "Double, double, toil and trouble" and "il an" will return 18, because the second substring is embedded in the first, starting on position 18.
@@ -679,7 +679,7 @@ I.e. given the strings "Double, double, toil and trouble" and "il an" will retur
 NOTE: Pretty much every language have this functionality built in for their strings, sometimes called find() (as in Python) or indexOf() (as in Java). But the point of this problem is to write the program yourself, so you **are not** allowed to use functions like this!
 
 
-Title:  [6/4/2012] Challenge #60 [easy]
+#  [6/4/2012] Challenge #60 [easy]
 Text:  A polite number n is an integer that is the sum of two or more consecutive nonnegative integers in at least one way.
 
 [Here](http://en.wikipedia.org/wiki/Polite_number) is an article helping in understanding Polite numbers
@@ -687,7 +687,7 @@ Text:  A polite number n is an integer that is the sum of two or more consecutiv
 Your challenge is to write a function to determine the ways if a number is polite or not.
 
 
-Title:  [6/6/2012] Challenge #61 [easy]
+#  [6/6/2012] Challenge #61 [easy]
 Text:  The number 19 is can be represented [in binary](http://en.wikipedia.org/wiki/Binary_numeral_system) as 10011. Lets define the operation of "rotating a number" as taking the last binary digit of that number and moving it so it becomes the first binary digit, and moving the other digits one step forward. I.e. if you rotate 10011, you get 11001 (i.e. 25), because the 1 that was in the last position has now moved to the first position. If you rotate it again, you get 11100 (i.e. 28).
 
 If you rotate it again, something curious happens: you get 01110, which is the same as 1110 (i.e. 14) since leading zeroes don't count in a binary representation. That is to say, when you rotate it this time, the zero disappears. If you rotate it once more, you get 0111, which is the same as 111 (i.e. 7). Again, the zero has disappeared. 
@@ -714,14 +714,14 @@ Write a program that given a number will print out the binary rotation sequence 
 What is the binary rotation sequence for 54321?
 
 
-Title:  [6/8/2012] Challenge #62 [easy]
+#  [6/8/2012] Challenge #62 [easy]
 Text:  Give the [Ullman's Puzzle](http://regator.com/p/246306389/ullmans_puzzle/)
 
 Write a function that makes that determination
 
 
 
-Title:  [6/11/2012] Challenge #63 [easy]
+#  [6/11/2012] Challenge #63 [easy]
 Text:  Write a procedure called reverse(N, A), where N is an integer and A is an array which reverses the N first items in the array and leaves the rest intact. 
 
 For instance, if N = 3 and A = [1,2,3,4,5], then reverse(N,A) will modify A so that it becomes [3,2,1,4,5], because the three first items, [1,2,3], have been reversed. Here are a few other examples:
@@ -736,7 +736,7 @@ So if N is equal to 0 or 1, A remains unchanged, and if N is equal to the size o
 Try to write reverse() so that it works *in-place*; that is, it uses only a constant amount of memory in addition to the list A itself. This isn't necessary, but it is recommended.
 
 
-Title:  [6/13/2012] Challenge #64 [easy]
+#  [6/13/2012] Challenge #64 [easy]
 Text:  The divisors of a number are those numbers that divide it evenly; for example, the divisors of 60 are 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, and 60. The sum of the divisors of 60 is 168, and the number of divisors of 60 is 12.
 
 The totatives of a number are those numbers less than the given number and coprime to it; two numbers are coprime if they have no common factors other than 1. The number of totatives of a given number is called its totient. For example, the totatives of 30 are 1, 7, 11, 13, 17, 19, 23, and 29, and the totient of 30 is 8.
@@ -752,7 +752,7 @@ Your task is to write a small library of five functions that compute the divisor
 
 
 
-Title:  [6/15/2012] Challenge #65 [easy]
+#  [6/15/2012] Challenge #65 [easy]
 
 Text:  Write a program that given a floating point number, gives the number of American dollar coins and bills needed to represent that number (rounded to the nearest 1/100, i.e. the nearest penny). For instance, if the float is 12.33, the result would be 1 ten-dollar bill, 2 one-dollar bills, 1 quarter, 1 nickel and 3 pennies.
 
@@ -771,13 +771,13 @@ For the purposes of this problem, these are the different denominations of the c
 Sorry Thomas Jefferson, JFK and Sacagawea, but no two-dollar bills, half-dollars or dollar coins!
 
 Your program can return the result in whatever format it wants, but I recommend just returning a list giving the number each coin or bill needed to make up the change. So, for instance, 12.33 could return [0,0,1,0,2,1,0,1,3] (here the denominations are ordered from most valuable, the hundred-dollar bill, to least valuable, the penny)
-Title:  [6/18/2012] Challenge #66 [easy]
+#  [6/18/2012] Challenge #66 [easy]
 Text:  Write a function that takes two arguments, x and y, which are two strings containing Roman Numerals without prefix subtraction (so for instance, 14 is represented as XIIII, not XIV). The function must return true if and only if the number represented by x is less than the number represented by y. Do it without actually converting the Roman numerals into regular numbers.
 
 Challenge: handle prefix subtraction as well.
 
 
-Title:  [6/20/2012] Challenge #67 [easy]
+#  [6/20/2012] Challenge #67 [easy]
 Text:  As we all know, when computers do calculations or store numbers, they don't use decimal notation like we do, they use binary notation. So for instance, when a computer stores the number 13, it doesn't store "1" and "3", it stores "1101", which is 13 in binary.
 
 But more than that, when we instruct it to store an integer, we usually tell it to store it in a certain datatype with a certain length. For (relatively small) integers, that length is usually as 32 bits, or four bytes (also called "one word" on 32-bit processors). So 13 isn't really stored as "1101", it's stored as "00000000000000000000000000001101".
@@ -789,7 +789,7 @@ Write a program that can do this "32-bit reverse" operation, so when given the n
 Note: just to be clear, for all numbers in this problem, we are using *unsigned* 32 bit integers.
 
 
-Title:  [6/22/2012] Challenge #68 [easy]
+#  [6/22/2012] Challenge #68 [easy]
 Text:  [Emirp](http://mathworld.wolfram.com/Emirp.html) is an interesting concept. The explanation about it is provided in the link i just gave.
 
 Your task is to implement a function which prints out the emirps below a number(input) given by the user.
@@ -799,10 +799,10 @@ Your task is to implement a function which prints out the emirps below a number(
 
 
 
-Title:  [6/26/2012] Challenge #69 [easy]
+#  [6/26/2012] Challenge #69 [easy]
 Text:  Write a program that takes a title and a list as input and outputs the list in a nice column. Try to make it so the title is centered. For example:
 
-    title: 'Necessities'
+    # 'Necessities'
     input: ['fairy', 'cakes', 'happy', 'fish', 'disgustipated', 'melon-balls']
 
     output:
@@ -839,11 +839,11 @@ Bonus: amend the program so that it can output a two-dimensional table instead o
         +-----------+------------------+-------------------------------+
 
 
-Title:  [6/29/2012] Challenge #70 [easy]
+#  [6/29/2012] Challenge #70 [easy]
 Text:  Write a program that takes a filename and a parameter n and prints the n most common words in the file, and the count of their occurrences, in descending order.
 
 
-Title:  [7/2/2012] Challenge #71 [easy]
+#  [7/2/2012] Challenge #71 [easy]
 Text:  If a right angled triangle has three sides A, B and C (where C is the hypothenuse), the pythagorean theorem tells us that A^2 + B^2 = C^2
 
 When A, B and C are all integers, we say that they are a *pythagorean triple*. For instance, (3, 4, 5) is a pythagorean triple because 3^2 + 4^2 = 5^2 .
@@ -853,7 +853,7 @@ When A + B + C is equal to 240, there are four possible pythagorean triples: (15
 Write a program that finds all pythagorean triples where A + B + C = 504.
 
 
-Title:  [7/4/2012] Challenge #72 [easy]
+#  [7/4/2012] Challenge #72 [easy]
 Text:  The one-dimensional simple cellular automata [Rule 110] (http://en.wikipedia.org/wiki/Rule_110) 
 is the only such cellular automata currently known to be turing-complete, and many people say it is the simplest known turing-complete
 system.
@@ -865,7 +865,7 @@ You may chose to implement rule 124 instead if you like (which is the same thing
 Bonus points if your program can take an arbitrary rule integer from 0-255 as input and run that rule instead!
 
 
-Title:  [7/6/2012] Challenge #73 [easy]
+#  [7/6/2012] Challenge #73 [easy]
 Text:  During the 70s and 80s, some handheld calculators used a very different notation for arithmetic called [Reverse Polish notation](http://en.wikipedia.org/wiki/Reverse_Polish_notation) (RPN). Instead of putting operators (`+`, `*`, `-`, etc.) between their operands (as in `3 + 4`), they were placed behind them: to calculate `3 + 4`, you first inputted the operands (`3 4`) and then added them together by pressing `+`.
 
 Internally, this was implemented using a stack: whenever you enter a number, it's pushed onto the stack, and whenever you enter an operator, the **top two elements** are popped off for the calculation. Here's an example of a RPN calculator calculating `3 4 * 6 2 - +`:
@@ -881,7 +881,7 @@ Internally, this was implemented using a stack: whenever you enter a number, it'
 Your task is to implement a program that reads a string in Reverse Polish notation and prints the result of the calculation. Your program should support positive and negative integers and the operators `+`, `-`, `*`. (For extra credit, you can implement extra functions, such as decimal numbers, division, exponentiation, etc.)
 
 
-Title:  [7/9/2012] Challenge #74 [easy]
+#  [7/9/2012] Challenge #74 [easy]
 Text:  The Fibonacci numbers, which we are all familiar with, start like this:
 
 	0,1,1,2,3,5,8,13,21,34,...
@@ -911,7 +911,7 @@ What is the Zeckendorf representation of 3^15 ?
 
 
 
-Title:  [7/12/2012] Challenge #75 [easy] (Function Transformation)
+#  [7/12/2012] Challenge #75 [easy] (Function Transformation)
 Text:  First off, I'd like to apologize for posting this 12 hours late, I'm a little new to my mod responsibilities.  However, with your forgiveness, we can go onward!
 
 Everyone on this subreddit is probably somewhat familiar with the C programming language.
@@ -946,7 +946,7 @@ Bonus points if you support exponentiation with "\^", as in "f(x)=x\^2"
 
 
 
-Title:  [7/13/2012] Challenge #76 [easy] (Title case)
+#  [7/13/2012] Challenge #76 [easy] (Title case)
 Text:  Write a function that transforms a string into [title case](http://en.wikipedia.org/wiki/Letter_case#Headings_and_publication_titles). This mostly means: capitalizing only every first letter of every word in the string. However, there are some non-obvious exceptions to title case which can't easily be hard-coded. Your function must accept, as a second argument, a set or list of words that should **not** be capitalized. Furthermore, the **first word** of every title should always have a capital leter. For example:
 
     exceptions = ['jumps', 'the', 'over']
@@ -966,7 +966,7 @@ Returns:
     The Vitamins are in my Fresh California Raisins
 
 
-Title:  [7/16/2012] Challenge #77 [easy] (Enumerating Morse code sequences)
+#  [7/16/2012] Challenge #77 [easy] (Enumerating Morse code sequences)
 Text:  Morse code, as we are all aware, consists of dots and dashes. Lets define a "Morse code sequence" as simply a series of dots and dashes (and nothing else). So ".--.-.--" would be a morse code sequence, for instance.
 
 Dashes obviously take longer to transmit, that's what makes them dashes. Lets say that a dot takes 1 unit of time to transmit, and a dash takes 2 units of time. Then we can say that the "size" of a certain morse code sequence is the sum of the time it takes to transmit the dots and dashes. So, for instance "..-." would have a size of 5 (since there's three dots taking three units of time and one dash taking two units of time, for a total of 5). The sequence "-.-" would also have a size of 5. 
@@ -987,7 +987,7 @@ Bonus: Try and write your code so that it can generate Morse(35) (or even Morse(
 
 
 
-Title:  [7/18/2012] Challenge #78 [easy] (Keyboard Locale Simulator)
+#  [7/18/2012] Challenge #78 [easy] (Keyboard Locale Simulator)
 Text:  This one is inspired by an actual problem my friend had to deal with recently.  Unfortunately, its a little bit
 keyboard-locale specific, so if you don't happen to use a us-EN layout keyboard you might want to get a picture of one.
 
@@ -1021,7 +1021,7 @@ you should output
     My e-mail address (to send the $$$ to) is FAKE@GMAIL.COM
 
 
-Title:  [7/18/2012] Challenge #79 [easy] (Counting in steps)
+#  [7/18/2012] Challenge #79 [easy] (Counting in steps)
 Text:  Write a function `step_count(a, b, steps)` that returns a list or array containing `steps` elements, counting from `a` to `b` in steps of an equal size. `steps` is a positive integer greater than or equal to 2, `a` and `b` are floating point numbers.
 
 For example:
@@ -1038,7 +1038,7 @@ For example:
     ==> [9.75, 8.90625, 8.0625, 7.21875, 6.375, 5.53125, 4.6875, 3.84375, 3.0]
 
 
-Title:  [7/23/2012] Challenge #80 [easy] (Anagrams)
+#  [7/23/2012] Challenge #80 [easy] (Anagrams)
 Text:  As all of us who have read "Harry Potter and the Chamber of Secrets" knows, the reason He-Who-Must-Not-Be-Named chose his creepy moniker is that "I Am Lord Voldemort" is an anagram for his birthname, "Tom Marvolo Riddle". 
 
 I've never been good at these kinds of word-games (like anagrams), I always find it hard to figure out that stuff manually. I find it much more enjoyable to write computer programs to solve these problems for me. In the spirit of that, today's problem is to find simple one-word anagrams for other words.
@@ -1061,7 +1061,7 @@ What is the largest anagram family in the dictionary I supplied? What is the sec
 
 
 
-Title:  [7/25/2012] Challenge #81 [easy] (Numerical Calculus I)
+#  [7/25/2012] Challenge #81 [easy] (Numerical Calculus I)
 Text:  For a lot of the questions today we are going to be doing some simple numerical calculus.  Don't worry, its not too terrifying.
 
 For the easy problem, write a function that can take in a list of y-values that represents a function sampled on some domain.  The domain can be specified as a list of x-values or two values for the x-minimum and x-maximum (the x-coordinates of the endpoints)
@@ -1100,7 +1100,7 @@ Basically, what you do here is use compute the slope between the current point a
 
 
 
-Title:  [7/27/2012] Challenge #82 [easy] (Substring list)
+#  [7/27/2012] Challenge #82 [easy] (Substring list)
 Text:  Write a function that takes a number *n* as an argument and returns (or outputs) every possible unique substrings (not counting "") of the first *n* letters of the alphabet (in any order you like). For example, `substrings(5)` could be:
 
     a
@@ -1125,7 +1125,7 @@ Text:  Write a function that takes a number *n* as an argument and returns (or o
 
 
 
-Title:  [7/30/2012] Challenge #83 [easy] (Long scale and short scale)
+#  [7/30/2012] Challenge #83 [easy] (Long scale and short scale)
 Text:  One of the most annoying and confusing differences between English and basically every other language in the world is that English uses a weird way to name very large numbers. 
 
 For instance, if you wanted to translate "one trillion" from English to French, you might think it would be "un trillion", but that is wrong. The correct translation of "one trillion" to French is "un billion". Well, then, you might ask, what is "one billion" in French? It is, in fact, "un milliard". And "un trillion" in French is equal to english "one quintillion". Confusing, no?
@@ -1163,7 +1163,7 @@ Bonus points if it prints out everything in letters, i.e.:
     and sixty-seven million, eight hundred and ninety-one thousand and one
     hundred and eleven
 The program should be able to handle all numbers that can fit into an unsigned 64-bit integers, i.e. all numbers up to 2^64 - 1 ("18 trillion, 446 billiard, 744 billion, 73 milliard, 709 million, 551 thousand and 615" in long scale, though it's something completely different in short scale.), or 2^63 - 1 if you're using signed 64-bit integers. Of course, you can write your program so it can handle bigger numbers if you want, but it's not necessary. 
-Title:  [8/1/2012] Challenge #84 [easy] (Searching Text Adventure)
+#  [8/1/2012] Challenge #84 [easy] (Searching Text Adventure)
 Text:  Like many people who program, I got started doing this because I wanted to learn how to make video games.  
 
 As a result, my first ever 'project' was also my first video game.  It involved a simple text adventure I called "The adventure of the barren moor"
@@ -1212,7 +1212,7 @@ Here is an example playthrough of my old program:
 Obviously, you do not have to use my flavor text, or my feature points.   As a matter of fact, its probably more interesting if you don't!
 
 
-Title:  [8/3/2012] Challenge #85 [easy] (Row/column sorting)
+#  [8/3/2012] Challenge #85 [easy] (Row/column sorting)
 Text:  Write a program that reads a matrix of numbers separated by newlines and whitespace, like this:
 
     10 5 4 20
@@ -1265,7 +1265,7 @@ Here's a large input matrix to test your program on.
 For bonus points, format your output matrices nicely (align the columns, draw boxes with `-` and `|`...)
 
 
-Title:  [8/8/2012] Challenge #86 [easy] (run-length encoding)
+#  [8/8/2012] Challenge #86 [easy] (run-length encoding)
 Text:  Run-Length encoding is a simple form of compression that detects 'runs' of repeated instances of a symbol in a string and compresses them to a list of pairs of 'symbol' 'length'.  For example, the string
 
     "Heeeeelllllooooo nurse!"
@@ -1280,7 +1280,7 @@ Write a function that takes in a string and returns a run-length-encoding of tha
 BONUS:  Write a decompression function that takes in the RLE representation and returns the original string
 
 
-Title:  [8/10/2012] Challenge #87 [easy] (Rectangle intersection)
+#  [8/10/2012] Challenge #87 [easy] (Rectangle intersection)
 Text:  Write a function that calculates the [intersection](http://en.wikipedia.org/wiki/Intersection_(set_theory\)) of two rectangles, returning either a new rectangle or some kind of null value. 
 
 You're free to represent these rectangles in any way you want: tuples of numbers, class objects, new datatypes, anything goes. For this challenge, you'll probably want to represent your rectangles as the *x* and *y* values of the top-left and bottom-right points. (`Rect(3, 3, 10, 10)` would be a rectangle from `(3, 3)` (top-left) to `(10, 10)` (bottom-right).)
@@ -1294,7 +1294,7 @@ As an example, `rectIntersection(Rect(3, 3, 10 10), Rect(6, 6, 12, 12))` would r
 
 
 
-Title:  [8/13/2012] Challenge #88 [easy] (Vigenère cipher)
+#  [8/13/2012] Challenge #88 [easy] (Vigenère cipher)
 Text:  The easy challenge today is to implement the famous [Vigenère cipher](http://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher). The Wikipedia article explains well how it works, but here's a short description anyway:
 
 You take a message that you want to encrypt, for instance "THECAKEISALIE" (lets assume that all characters are upper-case and there are no spaces in the messages, for the sake of simplicity), and a key you want to encrypt it with, for instance "GLADOS". You then write the message with the key repeated over it, like this:
@@ -1325,7 +1325,7 @@ As an optional bonus, decrypt the following message, which has been encrypted wi
     MAHUOKSWOVGBULIBPICYNBBXJXSIXRANNBTVGSNKR
 
 
-Title:  [8/20/2012] Challenge #89 [easy] (Simple statistical functions)
+#  [8/20/2012] Challenge #89 [easy] (Simple statistical functions)
 Text:  For today's challenge, you should calculate some simple statistical values based on a list of values. Given [this data set](http://pastebin.com/vqzTrVK2), write functions that will calculate:
 
 * [The mean value](http://en.wikipedia.org/wiki/Arithmetic_mean)
@@ -1336,7 +1336,7 @@ Text:  For today's challenge, you should calculate some simple statistical value
 Obviously, many programming languages and environments have standard functions for these (this problem is one of the few that is *really* easy to solve in Excel!), but you are not allowed to use those! The point of this problem is to write the functions yourself. 
 
 
-Title:  [8/22/2012] Challenge #90 [easy] (Walkaround Rasterizer)
+#  [8/22/2012] Challenge #90 [easy] (Walkaround Rasterizer)
 Text:  In this challenge, we propose a simple image file format for binary (2 color) black-and-white images.  
 Rather than describing the image as a sequence of bits in a row, instead we describe it in a little bit of a non-standard way.
 
@@ -1354,7 +1354,7 @@ would output a 5x5 grid with an X in it.
 SUPER BONUS: implement a program that can convert an arbitrary image to the walkaround rasterizer format.
 
 
-Title:  [8/24/2012] Challenge #91 [easy] (Sleep sort)
+#  [8/24/2012] Challenge #91 [easy] (Sleep sort)
 Text:  An anonymous user on world4ch's programming text board posted a thread in early 2011 in which he describes an ingenious *O(n)* sorting algorithm. This means it's, supposedly, more efficient than any sorting algorithm ever invented. Some bloggers picked up on it, and dubbed the algorithm [sleep sort](http://beust.com/weblog/2011/06/15/sleep-sort/):
 
     #!/bin/bash
@@ -1374,7 +1374,7 @@ This program takes some command line arguments, like `./sleepsort.sh 3 1 4 1 5 9
 Your task is to **re-implement sleep sort** in a language of your choice (which might look trivial, but this challenge is all about learning how your language handles multithreading.)
 
 **BONUS**\: at first glance, this algorithm appears to be *O(n)*. Can you prove this isn't true? (This bonus requires some knowledge of both algorithms and concurrency.)
-Title:  [8/27/2012] Challenge #92 [easy] (Digital number display)
+#  [8/27/2012] Challenge #92 [easy] (Digital number display)
 Text:  Today's easy challenge is to write a program that draws a number in the terminal that looks like one of those old school [seven segment displays](http://en.wikipedia.org/wiki/Seven-segment_display) you find in alarm clocks and VCRs. For instance, if you wanted to draw the number 5362, it would look somthing like:
 
     +--+  +--+  +--+  +--+
@@ -1388,7 +1388,7 @@ Text:  Today's easy challenge is to write a program that draws a number in the t
 I've added some +'s to the joints to make it a bit more readable, but that's optional. 
 
 Bonus: Write the program so that the numbers are scalable. In other words, that example would have a scale of 2 (since every line is two terminal characters long), but your program should also be able to draw them in a scale of 3, 4, 5, etc.
-Title:  [8/30/2012] Challenge #93 [easy] (Two-Way Morse Code Translator)
+#  [8/30/2012] Challenge #93 [easy] (Two-Way Morse Code Translator)
 Text:  This challenge courtesy of user [nagasgura](http://www.reddit.com/user/nagasgura)
 
 In this challenge, we read in a string from standard input and output the translation to or from morse code on standard output.
@@ -1402,7 +1402,7 @@ Example input and output:
 '... --- ...' -> 'sos'
 
 
-Title:  [9/01/2012] Challenge #94 [easy] (Elemental symbols in strings)
+#  [9/01/2012] Challenge #94 [easy] (Elemental symbols in strings)
 Text:  If you've ever seen *Breaking Bad*, you might have noticed how some [names in the opening credit sequence](http://i.imgur.com/qnul0.jpg) get highlights according to symbols of elements in the [periodic table](http://en.wikipedia.org/wiki/Periodic_table). Given a string as input, output every possible such modification with the element symbol enclosed in brackets and capitalized. The elements can appear anywhere in the string, but you must only highlight one element per line, like this:
 
     $ ./highlight dailyprogrammer
@@ -1415,7 +1415,7 @@ Text:  If you've ever seen *Breaking Bad*, you might have noticed how some [name
     dailyprogramm[Er]
     dailyprogr[Am]mer
 
-Title:  [9/03/2012] Challenge #95 [easy] (Reversing text in file)
+#  [9/03/2012] Challenge #95 [easy] (Reversing text in file)
 Text:  Write a program that reads text from a file, and then outputs the text to another file but with all the lines reversed and all the words in each line reversed. 
 
 So, for instance, if you had one file called the "thetyger.txt" which contained the two first verses of William Blake's The Tyger:
@@ -1443,7 +1443,7 @@ Your program would output this to "thetyger2.txt" (or whatever you want to call 
     bright burning Tyger! Tyger!
 
 
-Title:  [9/05/2012] Challenge #96 [easy] (Controller Chains)
+#  [9/05/2012] Challenge #96 [easy] (Controller Chains)
 Text:  It's 2001 all over again, and you just got a brand new ps2 in the mail.  Unfortunately, it only has 2 controller ports, and you have N friends who all want to play at the same time.
 
 Fortunately, however, the ps2 has an accessory called a 'multitap' that multiplexes one controller port into four controller ports, to allow more than 2 controllers at once.  
@@ -1460,7 +1460,7 @@ This is tricky because once you get >5 controllers, you need ANOTHER multitap...
 
 
 
-Title:  [9/08/2012] Challenge #97 [easy] (Concatenate directory)
+#  [9/08/2012] Challenge #97 [easy] (Concatenate directory)
 Text:  Write a program that concatenates all text files (`*.txt`) in a directory, numbering file names in alphabetical order. Print a header containing some basic information above each file.
 
 For example, if you have a directory like this:
@@ -1488,7 +1488,7 @@ For extra credit, add a command line option '`-r`' to your program that makes it
 
 
 
-Title:  [9/15/2012] Challenge #98 [easy] (Arithmetic tables)
+#  [9/15/2012] Challenge #98 [easy] (Arithmetic tables)
 Text:  Write a program that reads two arguments from the command line:
 
 * a symbol, `+`, `-`, `*`, or `/`
@@ -1519,11 +1519,11 @@ Becomes this:
 |**1**|1|2
 
 
-Title:  [9/17/2012] Challenge #99 [easy] (Words with letters in alphabetical order)
+#  [9/17/2012] Challenge #99 [easy] (Words with letters in alphabetical order)
 Text:  How many words contained in [this dictionary](http://code.google.com/p/dotnetperls-controls/downloads/detail?name=enable1.txt) have their letters in alphabetical order? So, for instance the letters in "ghost" and "bee" is in alphabetical order, but the letters in "cab" are not. 
 
 
-Title:  [9/20/2012] Challenge #100 [easy] (Sleep Cycle Estimator)
+#  [9/20/2012] Challenge #100 [easy] (Sleep Cycle Estimator)
 Text:  This challenge comes to us from nagasgura
 
 The human body goes through 90 minute sleep cycles during the night, and you feel more refreshed if you wake up at the end of a sleep cycle than if you wake up during a sleep cycle. The challenge is to make a program that takes a wake-up time and outputs the possible times to fall asleep so that you will wake up at the end of a sleep cycle.
@@ -1542,7 +1542,7 @@ Bonus 2: Account for how long it takes to fall asleep
 
 
 
-Title:  [9/27/2012] Challenge #101 [easy] (Non-repeating years) 
+#  [9/27/2012] Challenge #101 [easy] (Non-repeating years) 
 Text:  This challenge comes to us from user [skeeto](/u/skeeto)
 
 Write a program to count the number years in an inclusive range of years that have no repeated digits.
@@ -1552,7 +1552,7 @@ For example, 2012 has a repeated digit (2) while 2013 does not. Given the range 
 Bonus: Compute the longest run of years of repeated digits and the longest run of years of non-repeated digits for [1000, 2013].
 
 
-Title:  [9/30/2012] Challenge #102 [easy] (Dice roller)
+#  [9/30/2012] Challenge #102 [easy] (Dice roller)
 Text:  In tabletop role-playing games like Dungeons & Dragons, people use a system called [dice notation](http://en.wikipedia.org/wiki/Dice_notation) to represent a combination of dice to be rolled to generate a random number. Dice rolls are of the form **A**d**B** *(+/-)* **C**, and are calculated like this:
 
 1. Generate **A** random numbers from 1 to **B** and add them together.
@@ -1569,7 +1569,7 @@ Here's a hint on how to parse the strings, if you get stuck:
     whether or not the second part contains a '+' or '-', etc.
 
 
-Title:  [10/13/2012] Challenge #103 [easy-difficult] (Text transformations)
+#  [10/13/2012] Challenge #103 [easy-difficult] (Text transformations)
 Text:  ###Easy
 
 Back in the 90s (and early 00s) people thought it was a cool idea to \\/\\/|2][73 |_1|<3 7H15 to bypass text filters on BBSes. They called it [Leet (or 1337)](http://en.wikipedia.org/wiki/Leet), and it quickly became popular all over the internet. The habit has died out, but it's still quite interesting to see the various replacements people came up with when transforming characters.
@@ -1586,7 +1586,7 @@ Each line in the table contains a single character, followed by whitespace, foll
 
 
 
-Title:  [10/18/2012] Challenge #104 [Easy] (Powerplant Simulation)
+#  [10/18/2012] Challenge #104 [Easy] (Powerplant Simulation)
 Text:  **Description:**
 
 A powerplant for the city of Redmond goes offline every third day because of local demands. Ontop of this, the powerplant has to go offline for maintenance every 100 days. Keeping things complicated, on every 14th day, the powerplant is turned off for refueling. Your goal is to write a function which returns the number of days the powerplant is operational given a number of days to simulate.
@@ -1606,7 +1606,7 @@ Return the number of days the powerplant is operational.
 The function, given 10, should return 7 (3 days removed because of maintenance every third day).
 
 
-Title:  [10/20/2012] Challenge #105 [Easy] (Word unscrambler)
+#  [10/20/2012] Challenge #105 [Easy] (Word unscrambler)
 Text:  Given a wordlist of your choosing, make a program to unscramble scrambled words from that list. For sanity and brevity, disregard any words which have ambiguous unscramlings, such as "dgo" unscrambling to both "dog" and "god."
 
 **Input**:
@@ -1617,7 +1617,7 @@ A file which contains scrambled words and a wordlist to match it against
 The unscrambled words which match the scrambled ones
 
 
-Title:  [10/23/2012] Challenge #106 [Easy] (Random Talker, Part 1)
+#  [10/23/2012] Challenge #106 [Easy] (Random Talker, Part 1)
 Text:  Your program will be responsible for analyzing a small chunk of text, the text of this ***entire*** dailyprogrammer description.  Your task is to output the distinct words in this description, from highest to lowest count with the number of occurrences for each.  Punctuation will be considered as separate words where they are not a part of the word.  
 
 The following will be considered their own words: **"** **.** **,** **:** **;** **!** **?** **(** **)** **[** **]** **{** **}**
@@ -1628,7 +1628,7 @@ Extra Credit:
 
 Process the text of the ebook [Metamorphosis, by Franz Kafka](http://www.gutenberg.org/cache/epub/5200/pg5200.txt) and determine the top 10 most frequently used words and their counts. (This will help for part 2)
 
-Title:  [10/25/2012] Challenge #107 [Easy] (All possible decodings)
+#  [10/25/2012] Challenge #107 [Easy] (All possible decodings)
 Text:  Consider the translation from letters to numbers `a -> 1` through `z -> 26`. Every sequence of letters can be translated into a string of numbers this way, with the numbers being mushed together. For instance `hello -> 85121215`. Unfortunately the reverse translation is not unique. `85121215` could map to `hello`, but also to `heaubo`. Write a program that, given a string of digits, outputs every possible translation back to letters.
 
 Sample input:
@@ -1642,7 +1642,7 @@ Sample output:
 `  aw`
 
 `  lc`
-Title:  [10/27/2012] Challenge #108 [Easy] (Scientific Notation Translator)
+#  [10/27/2012] Challenge #108 [Easy] (Scientific Notation Translator)
 Text:  If you haven't gathered from the title, the challenge here is to go from decimal notation -> scientific notation.  For those that don't know, scientific notation allows for a decimal less than ten, greater than zero, and a power of ten to be multiplied.
 
 For example: 239487 would be 2.39487 x 10^5
@@ -1656,7 +1656,7 @@ Bonus Points:
 * Go both ways (i.e., given 0.935 x 10^3, output 935.)
 
 
-Title:  [10/30/2012] Challenge #109 [Easy] Digits Check
+#  [10/30/2012] Challenge #109 [Easy] Digits Check
 Text:  **Description:**
 Write a function, where given a string, return true if it only contains the digits from 0 (zero) to 9 (nine). Else, return false.
 
@@ -1674,7 +1674,7 @@ Return True or False - true if the given string only contains digits, false othe
 This is a trivial programming exercise, but a real challenge would be to optimize this function for your language and/or environment. As a recommended reading, look into how [fast string-searching](http://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) works.
 
 
-Title:  [11/3/2012] Challenge #110 [Easy] Keyboard Shift
+#  [11/3/2012] Challenge #110 [Easy] Keyboard Shift
 Text:  **Description:**
 
 You and a friend are working on a very important, bleeding-edge, research paper: "Computational Complexity of Sorting Pictures of Cats with Funny Text on the Web". The catch though is your friend wrote his part of the paper with his hands shifted to the right, meaning the top row of keys he used weren't "QWERTYUIOP" ([regular US keyboard](http://www.goodtyping.com/teclatUSok.png)), but instead "WERTYUIOP{".
@@ -1696,7 +1696,7 @@ Print the correct text.
 The string "Jr;;p ept;f" should shift back, through your function, into "Hello World". Another example is: "Lmiyj od ,u jrtp", which corrects to "Knuth is my hero"
 
 
-Title:  [11/6/2012] Challenge #111 [Easy] Star delete
+#  [11/6/2012] Challenge #111 [Easy] Star delete
 Text:  Write a function that, given a string, removes from the string any `*` character, or any character that's one to the left or one to the right of a `*` character. Examples:
 
 `"adf*lp" --> "adp"`  
@@ -1707,7 +1707,7 @@ Text:  Write a function that, given a string, removes from the string any `*` ch
 `"abc" --> "abc"`  
 
 
-Title:  [11/14/2012] Challenge #112 [Easy]Get that URL!
+#  [11/14/2012] Challenge #112 [Easy]Get that URL!
 Text:  **Description:**
 
 [Website URLs](http://en.wikipedia.org/wiki/Uniform_resource_locator), or Uniform Resource Locators, sometimes embed important data or arguments to be used by the server. This entire string, which is a URL with a [Query String](http://en.wikipedia.org/wiki/Query_string) at the end, is used to "[GET](http://en.wikipedia.org/wiki/GET_(HTTP)#Request_methods)" data from a web server.
@@ -1739,7 +1739,7 @@ If the given URl is invalid, simply print "The given URL is invalid". If the giv
 
 Given "http://en.wikipedia.org/w/index.php?title=Main_Page&action=edit", your program should print the following:
 
-    title: "Main_Page"
+    # "Main_Page"
     action: "edit"
 
 Given "http://en.wikipedia.org/w/index.php?title= hello world!&action=é", your program should print the following:
@@ -1750,7 +1750,7 @@ Given "http://en.wikipedia.org/w/index.php?title= hello world!&action=é", your 
 
 
 
-Title:  [11/20/2012] Challenge #113 [Easy] String-type checking
+#  [11/20/2012] Challenge #113 [Easy] String-type checking
 Text:  **Description:**
 
 You and a few co-workers are implementing a cool new technology called "blue-steel" (not to be confused with this [awesome feat of technology](http://www.youtube.com/watch?v=D519hT7-ytY)). Part of this technology, specifically the part assigned to you, is to check what "type" a given string of information is. Blue-steel currently must distinguish between a signed integer, signed float, a date, and a text-string.
@@ -1772,7 +1772,7 @@ You must print either "int", "float", "date", or "text" after identifying what s
 "123" should print "int", so should "+123", "-123", "0", etc. "123.456" should print "float", while "20-11-2012" should print "date", and finally "Hello, World!" should print "text". Again, you are not expected to handle a multi-type string such as "Hello 123".
 
 
-Title:  [12/4/2012] Challenge #114 [Easy] Word ladder steps
+#  [12/4/2012] Challenge #114 [Easy] Word ladder steps
 Text:  A word ladder is a sequence of words made by changing one letter at a time. For example:
 
     cold → cord → card → ward → warm
@@ -1792,7 +1792,7 @@ How many words from the list can appear next to the word `best` in a word ladder
 __Bonus 1:__ One word in the list has 33 other words that can appear next to it. What is this word? 
 
 __Bonus 2:__ How many different words can be reached, starting from `best`, in 3 or fewer steps
-Title:  [1/2/2013] Challenge #115 [Easy] Guess-that-number game!
+#  [1/2/2013] Challenge #115 [Easy] Guess-that-number game!
 Text:  # [](#EasyIcon) *(Easy)*: Guess-that-number game!
 
 A "guess-that-number" game is exactly what it sounds like: a number is guessed at random by the computer, and you must guess that number to win! The only thing the computer tells you is if your guess is below or above the number.
@@ -1823,7 +1823,7 @@ Let "C>" be the output from your applicatgion, and "U>" be what the user types:
     C> Correct! That is my number, you win! <Program terminates>
 
 
-Title:  [01/07/13] Challenge #116 [Easy] Permutation of a string
+#  [01/07/13] Challenge #116 [Easy] Permutation of a string
 Text:  
 # [](#EasyIcon) *(Easy)*: Permutation of a string
 Write a function that prints all of the permutatons of the unique characters of a given string. For example, permute("baz") would print:
@@ -1860,7 +1860,7 @@ abbccc abcbcc abccbc abcccb acbbcc acbcbc acbccb accbbc accbcb acccbb babccc bac
 * Note that this challenge is a near-duplicate of challenge #12, hence why there is the above "bonus" challenges
 
 
-Title:  [01/14/13] Challenge #117 [Easy] Hexdump to ASCII
+#  [01/14/13] Challenge #117 [Easy] Hexdump to ASCII
 Text:  # [](#EasyIcon) *(Easy)*: Hexdump to ASCII
 Hexadecimal is a base-16 representation of a number. A single byte of information, as an unsigned integer, can have a value of 0 to 255 in decimal. This byte can be represented in hexadecimal, from a range of 0x0 to 0xFF in hexadecimal.
 
@@ -1900,7 +1900,7 @@ This is dependent on how you write your code and what platform you are on.
 
 
 
-Title:  [01/21/13] Challenge #118 [Easy] Date Localization
+#  [01/21/13] Challenge #118 [Easy] Date Localization
 Text:  
 # [](#EasyIcon) *(Easy)*: Date Localization
 Localization of software is the process of adapting code to handle special properties of a given language or a region's standardization of date / time formats.
@@ -1946,7 +1946,7 @@ There are several standards for this kind of functionality in many software pack
 
 
 
-Title:  [01/28/13] Challenge #119 [Easy] Change Calculator
+#  [01/28/13] Challenge #119 [Easy] Change Calculator
 Text:  
 # [](#EasyIcon) *(Easy)*: Change Calculator
 Write A function that takes an amount of money, rounds it to the nearest penny and then tells you the *minimum* number of coins needed to equal that amount of money. For Example: "4.17" would print out:
@@ -1990,7 +1990,7 @@ This program may be different for international users, my examples used quarters
 * Bonus: Only print coins that are used at least once in the solution.
 
 
-Title:  [02/04/13] Challenge #120 [Easy] Log throughput counter
+#  [02/04/13] Challenge #120 [Easy] Log throughput counter
 Text:  
 # [](#EasyIcon) *(Easy)*: Log throughput counter
 You are responsible for a search engine of a large website and the servers are getting overloaded. You are pretty sure there's an increase in the number of queries per second, probably because someone is crawling you like there is no tomorrow. To be really sure you need to help the sysadmin in setting up a monitoring system which will alert everyone when the num. of queries per second reach a certain threshold. All he needs to get this going is a file that has one number corresponding to the number of queries in the past x seconds. The file needs to be updated every x seconds automatically so he can integrate that in his monitoring system.
@@ -2024,7 +2024,7 @@ None
 
 
 
-Title:  [03/04/13] Challenge #121 [Easy] Bytelandian Exchange 1
+#  [03/04/13] Challenge #121 [Easy] Bytelandian Exchange 1
 Text:  # [](#EasyIcon) *(Easy)*: Bytelandian Exchange 1
 Bytelandian Currency is made of coins with integers on them. There is a coin for each non-negative integer (including 0). You have access to a peculiar money changing machine. If you insert a N-valued coin, with N positive, It pays back 3 coins of the value N/2,N/3 and N/4, rounded down. For example, if you insert a 19-valued coin, you get three coins worth 9, 6, and 4. If you insert a 2-valued coin, you get three coins worth 1, 0, and 0. _0-valued coins cannot be used in this machine._
 
@@ -2051,7 +2051,7 @@ The number of 0-valued coins you wind up with after putting every positive-value
 Hint: use recursion!
 
 
-Title:  [03/18/13] Challenge #122 [Easy] Words With Ordered Vowels
+#  [03/18/13] Challenge #122 [Easy] Words With Ordered Vowels
 Text:  # [](#EasyIcon) *(Easy)*: Words With Ordered Vowels
 Find words in a word list that contain all the vowels in alphabetical
  order, non-repeated, where vowels are defined as A E I O U Y.
@@ -2074,7 +2074,7 @@ Nothing special, see sample output
 # Note
 
 
-Title:  [04/01/13] Challenge #122 [Easy] Sum Them Digits
+#  [04/01/13] Challenge #122 [Easy] Sum Them Digits
 Text:  # [](#EasyIcon) *(Easy)*: Sum Them Digits
 As a crude form of hashing function, Lars wants to sum the digits of a number. Then he wants to sum the digits of the result, and repeat until he have only one digit left. He learnt that this is called the [digital root](http://en.wikipedia.org/wiki/Digital_root) of a number, but the Wikipedia article is just confusing him.
 
@@ -2099,7 +2099,7 @@ An integer between 0 and 9, the digital root of the input number.
 ?
 # Note
 None
-Title:  [04/15/13] Challenge #122 [Easy] Sum Them Digits
+#  [04/15/13] Challenge #122 [Easy] Sum Them Digits
 Text:  
 # [](#EasyIcon) *(Easy)*: Sum Them Digits
 As a crude form of hashing function, Lars wants to sum the digits of a number. Then he wants to sum the digits of the result, and repeat until he have only one digit left. He learnt that this is called the [digital root](http://en.wikipedia.org/wiki/Digital_root) of a number, but the Wikipedia article is just confusing him.
@@ -2128,7 +2128,7 @@ None
 
 
 
-Title:  [04/22/13] Challenge #123 [Easy] Sum Them Digits
+#  [04/22/13] Challenge #123 [Easy] Sum Them Digits
 Text:  # [](#EasyIcon) *(Easy)*: Sum Them Digits
 As a crude form of hashing function, Lars wants to sum the digits of a number. Then he wants to sum the digits of the result, and repeat until he have only one digit left. He learnt that this is called the [digital root](http://en.wikipedia.org/wiki/Digital_root) of a number, but the Wikipedia article is just confusing him.
 
@@ -2155,7 +2155,7 @@ An integer between 0 and 9, the digital root of the input number.
 None
 
 
-Title:  [04/29/13] Challenge #123 [Easy] New-Line Troubles
+#  [04/29/13] Challenge #123 [Easy] New-Line Troubles
 Text:  
 # [](#EasyIcon) *(Easy)*: New-Line Troubles
 A [newline character](http://en.wikipedia.org/wiki/Newline) is a special character in text for computers: though it is not a visual (e.g. renderable) character, it is a control character, informing the reader (whatever program that is) that the following text should be on a new line (hence "newline character").
@@ -2187,7 +2187,7 @@ None required.
 None
 
 
-Title:  [05/06/13] Challenge #124 [Easy] New-Line Troubles
+#  [05/06/13] Challenge #124 [Easy] New-Line Troubles
 Text:  
 # [](#EasyIcon) *(Easy)*: New-Line Troubles
 A [newline character](http://en.wikipedia.org/wiki/Newline) is a special character in text for computers: though it is not a visual (e.g. renderable) character, it is a control character, informing the reader (whatever program that is) that the following text should be on a new line (hence "newline character").
@@ -2220,7 +2220,7 @@ None
 
 
 
-Title:  [05/13/13] Challenge #125 [Easy] Word Analytics
+#  [05/13/13] Challenge #125 [Easy] Word Analytics
 Text:  # [](#EasyIcon) *(Easy)*: Word Analytics
 
 You're a newly hired engineer for a brand-new company that's building a "killer Word-like application". You've been specifically assigned to implement a tool that gives the user some details on common word usage, letter usage, and some other analytics for a given document! More specifically, you must read a given text file (no special formatting, just a plain ASCII text file) and print off the following details:
@@ -2276,7 +2276,7 @@ If there are certain lines that have no answers (such as the situation in which 
     Top three most common letters: 'I', 'E', 'S'
 
 
-Title:  [05/20/13] Challenge #126 [Easy] Real-World Merge Sort
+#  [05/20/13] Challenge #126 [Easy] Real-World Merge Sort
 Text:  # [](#EasyIcon) *(Easy)*: Real-World Merge Sort
 
 Imagine you are an engineer working on some legacy code that has some odd constraints: you're being asked to implement a new function, which basically merges and sorts one list of integers into another list of integers, where you cannot allocate any other structures apart from simple temporary variables (such as an index or counter variable).
@@ -2309,7 +2309,7 @@ Simply print the contents of list B, after it has had the contents of A merged &
 Please note that the real challenge here is respecting the premise of the challenge: you **must** implement your sort /  merge function inline into list B! If you do not understand the premise, please do ask questions and we will gladly answer. Good luck, and have fun!
 
 
-Title:  [05/28/13] Challenge #127 [Easy] McCarthy 91 Function
+#  [05/28/13] Challenge #127 [Easy] McCarthy 91 Function
 Text:  # [](#EasyIcon) *(Easy)*: McCarthy 91 Function
 
 The [McCarthy 91 Function](http://en.wikipedia.org/wiki/McCarthy_91_function) is a recursive function which, given an integer N, returns the integer 91 if N is equal to or smaller than 100, or simply N-10 if N is greater than 100. Sounds simple, but look at the function definition in the linked Wikipedia article! How could such a function work to always return a constant (for N <= 100) that isn't in the function body? Well, that's your task: write out each step that McCarthy's function does for a given integer N.
@@ -2344,7 +2344,7 @@ You must output what the function does on each recursion: first you must print t
 
 
 
-Title:  [06/4/13] Challenge #128 [Easy] Sum-the-Digits, Part II
+#  [06/4/13] Challenge #128 [Easy] Sum-the-Digits, Part II
 Text:  # [](#EasyIcon) *(Easy)*: Sum-the-Digits, Part II
 
 Given a well-formed (non-empty, fully valid) string of digits, let the integer N be the sum of digits. Then, given this integer N, turn it into a string of digits. Repeat this process until you only have one digit left. Simple, clean, and easy: focus on writing this as cleanly as possible in your preferred programming language.
@@ -2384,7 +2384,7 @@ You must take the given string, sum the digits, and then convert this sum to a s
 
 
 
-Title:  [Easy] Longest Two-Character Sub-String
+#  [Easy] Longest Two-Character Sub-String
 Text:  # [](#EasyIcon) *(Easy)*: Longest Two-Character Sub-String
 
 This programming challenge is a [classic](http://en.wikipedia.org/wiki/Longest_common_substring_problem) interview question for software engineers: given a string, find the longest sub-string that contains, at most, two characters.
@@ -2415,7 +2415,7 @@ Simply print the longest sub-string of the given string that contains, at most, 
 
 
 
-Title:  [06/17/13] Challenge #130 [Easy] Roll the Dies
+#  [06/17/13] Challenge #130 [Easy] Roll the Dies
 Text:  # [](#EasyIcon) *(Easy)*: Roll the Dies
 
 In many board games, you have to roll [multiple multi-faces dies](http://en.wikipedia.org/wiki/File:Dice_(typical_role_playing_game_dice).jpg) to generate random numbers as part of the game mechanics. A classic die used is the d20 (die of 20 faces) in the game Dungeons & Dragons. This notation, often called the [Dice Notation](http://en.wikipedia.org/wiki/Dice_notation), is where you write NdM, where N is a positive integer representing the number of dies to roll, while M is a positive integer equal to or grater than two (2), representing the number of faces on the die. Thus, the string "2d20" simply means to roll the 20-faced die twice. On the other hand "20d2" means to roll a two-sided die 20 times.
@@ -2445,7 +2445,7 @@ You must simulate the die rolls N times, where if there is more than one roll yo
     5 3 4 6
 
 
-Title:  [07/01/13] Challenge #131 [Easy] Who tests the tests?
+#  [07/01/13] Challenge #131 [Easy] Who tests the tests?
 Text:  # [](#EasyIcon) *(Easy)*: Who tests the tests?
 
 [Unit Testing](http://en.wikipedia.org/wiki/Unit_testing) is one of the more basic, but effective, tools for [software testing](http://en.wikipedia.org/wiki/Software_testing) / quality assurance. Your job, as an expert test-engineer, is to double-check someone else's test data, and make sure that the expected output is indeed correct. The two functions you are testing is string-reversal and string-to-upper functions.
@@ -2485,7 +2485,7 @@ If string A, after the above described functions are executed, and B match, then
 
 
 
-Title:  [07/08/13] Challenge #132 [Easy] Greatest Common Divisor
+#  [07/08/13] Challenge #132 [Easy] Greatest Common Divisor
 Text:  # [](#EasyIcon) *(Easy)*: Greatest Common Divisor
 
 The [Greatest Common Divisor](https://en.wikipedia.org/wiki/Greatest_common_divisor) of a given set of integers is the greatest integer that can divide these integers without any remainder. From Wikipedia, take a look at this example: for the integers 8 and 12, the highest integer that divides them without remainder is 4.
@@ -2519,7 +2519,7 @@ Simply print the GCD value for the two given integers. If no GCD exists, print o
 
 
 
-Title:  [07/15/13] Challenge #133 [Easy] Foot-Traffic Analysis
+#  [07/15/13] Challenge #133 [Easy] Foot-Traffic Analysis
 Text:  # [](#EasyIcon) *(Easy)*: Foot-Traffic Analysis
 
 The world's most prestigious art gallery in the world needs *your* help! Management wants to figure out how many people visit each room in the gallery, and for how long: this is to help improve the quality of the overall gallery in the future.
@@ -2613,7 +2613,7 @@ For each room that had log data associated with it, print the room index (starti
 
 
 
-Title:  [08/06/13] Challenge #134 [Easy] N-Divisible Digits
+#  [08/06/13] Challenge #134 [Easy] N-Divisible Digits
 Text:  # [](#EasyIcon) *(Easy)*: N-Divisible Digits
 
 Write a program that takes two integers, N and M, and find the largest integer composed of N-digits that is evenly divisible by M. N will always be 1 or greater, with M being 2 or greater. Note that some combinations of N and M will not have a solution.
@@ -2650,7 +2650,7 @@ Print the largest integer within the range of 1 to the largest integer formed by
 
 
 
-Title:  [08/13/13] Challenge #135 [Easy] Arithmetic Equations
+#  [08/13/13] Challenge #135 [Easy] Arithmetic Equations
 Text:  # [](#EasyIcon) *(Easy)*: Arithmetic Equations
 
 [Unix](http://en.wikipedia.org/wiki/Unix), the famous multitasking and multi-user operating system, has several standards that defines Unix commands, system calls, subroutines, files, etc. Specifically within [Version 7](http://en.wikipedia.org/wiki/Version_7_Unix) (though this is included in many other Unix standards), there is a game called "arithmetic". To quote the [Man Page](http://en.wikipedia.org/wiki/Man_page):
@@ -2699,7 +2699,7 @@ If the user's answer is correct, print "Correct!" and randomly generate another 
 
 
 
-Title:  [08/13/13] Challenge #136 [Easy] Student Management
+#  [08/13/13] Challenge #136 [Easy] Student Management
 Text:  # [](#EasyIcon) *(Easy)*: Student Management
 
 You are a computer science professor at South Harmon Institute of Technology, and are in dire need of automatic grading! The good news is you have all of your student's assignments in an easy-to-read format, making automation easy!
@@ -2762,7 +2762,7 @@ On the first line of output, print the class' average grade. Then, for each stud
 
 
 
-Title:  [08/13/13] Challenge #137 [Easy] String Transposition
+#  [08/13/13] Challenge #137 [Easy] String Transposition
 Text:  # [](#EasyIcon) *(Easy)*: String Transposition
 
 It can be helpful sometimes to rotate a string 90-degrees, like a big vertical "SALES" poster or your business name on vertical neon lights, like [this image from Las Vegas](http://imgur.com/766x8uM). Your goal is to write a program that does this, but for multiples lines of text. This is very similar to a [Matrix Transposition](http://en.wikipedia.org/wiki/Transpose), since the order we want returned is not a true 90-degree rotation of text.
@@ -2836,7 +2836,7 @@ Simply print the given lines top-to-bottom. The first given line should be the l
 
 
 
-Title:  [09/17/13] Challenge #138 [Easy] Repulsion-Force
+#  [09/17/13] Challenge #138 [Easy] Repulsion-Force
 Text:  # [](#EasyIcon) *(Easy)*: Repulsion-Force
 
 [Colomb's Law](http://en.wikipedia.org/wiki/Coulomb%27s_law) describes the repulsion force for two electrically charged particles. In *very* general terms, it describes the rate at which particles move away from each-other based on each particle's mass and distance from one another.
@@ -2883,7 +2883,7 @@ Print the force as a float at a minimum three decimal places precision.
 
 
 
-Title:  [11/4/13] Challenge #139 [Easy] Pangrams
+#  [11/4/13] Challenge #139 [Easy] Pangrams
 Text:  # [](#EasyIcon) *(Easy)*: Pangrams
 
 [Wikipedia](http://en.wikipedia.org/wiki/Pangram) has a great definition for Pangrams: "*A pangram or holoalphabetic sentence for a given alphabet is a sentence using every letter of the alphabet at least once.*" A good example is the English-language sentence "[The quick brown fox jumps over the lazy dog](http://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog)"; note how all 26 English-language letters are used in the sentence.
@@ -2920,7 +2920,7 @@ For each line of input, print either "True" if the given line was a pangram, or 
 
 
 
-Title:  [11/4/13] Challenge #140 [Easy] Variable Notation
+#  [11/4/13] Challenge #140 [Easy] Variable Notation
 Text:  # [](#EasyIcon) *(Easy)*: Variable Notation
 
 When writing code, it can be helpful to have a standard ([Identifier naming convention](http://en.wikipedia.org/wiki/Identifier_naming_convention)) that describes how to define all your variables and object names. This is to keep code easy to read and maintain. Sometimes the standard can help describe the type (such as in [Hungarian notation](http://en.wikipedia.org/wiki/Hungarian_notation)) or make the variables visually easy to read ([CamcelCase notation](http://en.wikipedia.org/wiki/CamelCase) or [snake_case](http://en.wikipedia.org/wiki/Snake_case)).
@@ -2969,7 +2969,7 @@ Output:
 
 
 
-Title:  [11/11/13] Challenge #141 [Easy] Monty Hall Simulation
+#  [11/11/13] Challenge #141 [Easy] Monty Hall Simulation
 Text:  # [](#EasyIcon) *(Easy)*: Monty Hall Simulation
 
 The [Monty Hall Problem](http://en.wikipedia.org/wiki/Monty_Hall_problem) is a probability puzzle that has a very non-intuitive answer for the average person. Here's the problem description taken from Wikipedia:
@@ -3041,7 +3041,7 @@ For an extra challenge, visualize the simulation! Using whatever tools and platf
 
 
 
-Title:  [11/11/13] Challenge #141 [Easy] Checksums
+#  [11/11/13] Challenge #141 [Easy] Checksums
 Text:  # [](#EasyIcon) *(Easy)*: Checksums
 
 [Checksums](http://en.wikipedia.org/wiki/Checksum) are a tool that allow you to verify the integrity of data (useful for networking, security, error-correction, etc.). Though there are *many* different Checksum algorithms, the general usage is that you give raw-data to your algorithm of choice, and a block of data (usually smaller than the given data) is generated and can later be used by re-computing the checksum and comparing the original and recent values.
@@ -3079,7 +3079,7 @@ For each line of input, print the index (starting from 1) and the 16-bit Fletche
 
 
 
-Title:  [11/11/13] Challenge #142 [Easy] Falling Sand
+#  [11/11/13] Challenge #142 [Easy] Falling Sand
 Text:  # [](#EasyIcon) *(Easy)*: Falling Sand
 
 [Falling-sand Games](http://en.wikipedia.org/wiki/Falling-sand_game) are particle-simulation games that focus on the interaction between particles in a 2D-world. Sand, as an example, might fall to the ground forming a pile. Other particles might be much more complex, like fire, that might spread depending on adjacent particle types.
@@ -3115,7 +3115,7 @@ Print the end result of all particle positions using the input format for partic
     #    
         .
      . ..
-Title:  [12/03/13] Challenge #143 [Easy] Braille
+#  [12/03/13] Challenge #143 [Easy] Braille
 Text:  # [](#EasyIcon) *(Easy)*: Braille
 
 [Braille](http://en.wikipedia.org/wiki/Braille) is a writing system based on a series of raised / lowered bumps on a material, for the purpose of being read through touch rather than sight. It's an incredibly powerful reading & writing system for those who are blind / visually impaired. Though the letter system has up to 64 unique glyph, 26 are used in [English Braille](http://en.wikipedia.org/wiki/English_Braille) for letters. The rest are used for numbers, words, accents, ligatures, etc.
@@ -3143,7 +3143,7 @@ Print the transcribed Braille.
     Helloworld
 
 
-Title:  [12/11/13] Challenge #144 [Easy] Nuts & Bolts
+#  [12/11/13] Challenge #144 [Easy] Nuts & Bolts
 Text:  # [](#EasyIcon) *(Easy)*: Nuts & Bolts
 
 You have just been hired at a local home improvement store to help compute the proper costs of inventory. The current prices are out of date and wrong; you have to figure out which items need to be re-labeled with the correct price.
@@ -3192,7 +3192,7 @@ For each item that has had its price changed, print a row with the item name and
     8DNail +1
 
 
-Title:  [12/16/13] Challenge #145 [Easy] Tree Generation
+#  [12/16/13] Challenge #145 [Easy] Tree Generation
 Text:  # [](#EasyIcon) *(Easy)*: Tree Generation
 
 Your goal is to draw a tree given the base-width of the tree (the number of characters on the bottom-most row of the triangle section). This "tree" must be drawn through [ASCII art-style graphics](http://en.wikipedia.org/wiki/ASCII_art) on standard console output. It will consist of a 1x3 trunk on the bottom, and a triangle shape on the top. The tree must be centered, with the leaves growing from a base of N-characters, up to a top-layer of 1 character. Each layer reduces by 2 character, so the bottom might be 7, while shrinks to 5, 3, and 1 on top layers. See example output.
@@ -3252,7 +3252,7 @@ Draw something special! Experiment with your creativity and engineering, try to 
 
 
 
-Title:  [12/23/13] Challenge #146 [Easy] Polygon Perimeter
+#  [12/23/13] Challenge #146 [Easy] Polygon Perimeter
 Text:  # [](#EasyIcon) *(Easy)*: Polygon Perimeter
 
 [A Polygon](http://en.wikipedia.org/wiki/Polygon) is a geometric two-dimensional figure that has n-sides (line segments) that closes to form a loop. Polygons can be in many different shapes and have many different neat properties, though this challenge is about [Regular Polygons](http://en.wikipedia.org/wiki/Regular_polygon). Our goal is to compute the permitter of an n-sided polygon that has equal-length sides given the [circumradius](http://en.wikipedia.org/wiki/Regular_polygon#Circumradius). This is the distance between the center of the Polygon to any of its vertices; not to be confused with the [apothem](http://en.wikipedia.org/wiki/Apothem)!
@@ -3283,7 +3283,7 @@ Print the permitter of the given N-sided polygon that has a circumradius of R. P
 
 
 
-Title:  [01/07/14] Challenge #147 [Easy] Sport Points
+#  [01/07/14] Challenge #147 [Easy] Sport Points
 Text:  # [](#EasyIcon) *(Easy)*: Sport Points
 
 You must write code that verifies the awarded points for a fictional sport are valid. This sport is a simplification of [American Football](http://en.wikipedia.org/wiki/American_football#Scoring) scoring rules. This means that the score values must be any logical combination of the following four rewards:
@@ -3323,7 +3323,7 @@ Print "Valid Score" or "Invalid Score" based on the respective validity of the g
 
 
 
-Title:  [01/13/14] Challenge #148 [Easy] Combination Lock
+#  [01/13/14] Challenge #148 [Easy] Combination Lock
 Text:  # [](#EasyIcon) *(Easy)*: Combination Lock
 
 [Combination locks](http://en.wikipedia.org/wiki/Combination_lock) are mechanisms that are locked until a specific number combination is input. Either the input is a single dial that must rotate around in a special procedure, or have three disks set in specific positions. This challenge will ask you to compute how much you have to spin a single-face lock to open it with a given three-digit code.
@@ -3365,7 +3365,7 @@ Here's how we got that number:
 
 
 
-Title:  [02/24/14] Challenge #149 [Easy] Disemvoweler
+#  [02/24/14] Challenge #149 [Easy] Disemvoweler
 Text:  # _(Easy)_: Disemvoweler
 
 Disemvoweling means removing the vowels from text. (For this challenge, the letters a, e, i, o, and u are considered vowels, and the letter y is not.) The idea is to make text difficult but not impossible to read, for when somebody posts something so idiotic you want people who are reading it to get extra frustrated.
@@ -3420,7 +3420,7 @@ Two strings, one of the disemvoweled text (spaces removed), and one of all the r
 
 
 
-Title:  [17/04/2014] Challenge #153 [Easy] Pascal's Pyramid
+#  [17/04/2014] Challenge #153 [Easy] Pascal's Pyramid
 Text:  # [](#EasyIcon) _(Easy)_: Pascal's Pyramid
 
 You may have seen Pascal's Triangle before. It has been known about for a long time now and is a very simple concept - it makes several appearances in mathematics, one of which is when you calculate the [binomial expansion](http://en.wikipedia.org/wiki/Binomial_theorem).  
@@ -3528,7 +3528,7 @@ Jagged multidimensional arrays will come in handy here.
 
 
 
-Title:  [4/24/2014] Challenge #154 [Easy] March Madness Brackets
+#  [4/24/2014] Challenge #154 [Easy] March Madness Brackets
 Text:  # **Description:**
 It is that time of year again when across some of the lands you hear about March Madness and NCAA Basketball. People ask about your brackets and how you are doing in your predictions. Of course to those of us who perform the art of coding we always get a bit confused by this. 
 
@@ -3633,7 +3633,7 @@ You would use left to right to give priority to which equal sets to output.
 
 
 
-Title:  [4/1/2014] Challenge #156 [Easy] Simple Decoder
+#  [4/1/2014] Challenge #156 [Easy] Simple Decoder
 Text:  #Oops:
 
 By now you all have noticed /r/dailyprogrammer has added 3 new moderators. All of us including the existing moderators have been working hard to bring back 3 challenges a week.
@@ -3668,7 +3668,7 @@ As part of the challenge we leave it to the programmer to discover the correct o
 
 
 
-Title:  [4/7/2014] Challenge #157 [Easy] The Winning Move X-Games edition
+#  [4/7/2014] Challenge #157 [Easy] The Winning Move X-Games edition
 Text:  #Description:
 
 The world championship in Tic Tac Toe, The X-Games is underway. We have been asked to write a program
@@ -3738,7 +3738,7 @@ Shows the board with the winning move in place. If there is no winning move prin
 
 
 
-Title:  [4/14/2014] Challenge #158 [Easy] The Torn Number
+#  [4/14/2014] Challenge #158 [Easy] The Torn Number
 Text:  #Description:
 
 I had the other day in my possession a label bearing the number 3 0 2 5 in large figures. This got accidentally torn in half, so that 3 0 was on one piece and 2 5 on the other. On looking at these pieces I began to make a calculation,  when I discovered this little peculiarity. If we add the 3 0 and the 2 5 together and square the sum we get as the result, the complete original number on the label! Thus, 30 added to 25 is 55, and 55 multiplied by 55 is 3025. Curious, is it not?
@@ -3750,7 +3750,7 @@ Create a program that verifies if a number is a valid torn number.
 
 
 
-Title:  [4/21/2014] Challenge #159 [Easy] Rock Paper Scissors Lizard Spock - Part 1 The Basic Game
+#  [4/21/2014] Challenge #159 [Easy] Rock Paper Scissors Lizard Spock - Part 1 The Basic Game
 Text:  #Theme Week:
 
 Welcome to my first attempt at a theme week. All week long the challenges will be related to this fascinating advanced version of the game Rock Paper Scissors. We will explore the depths of this game like none have before.
@@ -3798,7 +3798,7 @@ The game loops and continues to play matches until the user quits or a fixed num
 
 
 
-Title:  [4/28/2014] Challenge #160 [Easy] Trigonometric Triangle Trouble, pt. 1
+#  [4/28/2014] Challenge #160 [Easy] Trigonometric Triangle Trouble, pt. 1
 Text:  # [](#EasyIcon) _(Easy)_: Trigonometric Triangle Trouble, pt. 1
 
 A triangle on a flat plane is described by its angles and side lengths, and you don't need to be given all of the angles and side lengths to work out the rest. In this challenge, you'll be working with **right-angled triangles only**.
@@ -3843,7 +3843,7 @@ There are 4 useful trigonometric identities you may find very useful.
 
 Part 2 will be submitted on the 2nd of May. To make it easier to complete Part 2, write your code in such a way that it can be extended later on. Use good programming practices (as always!).
 
-Title:  [5/5/2014] #161 [Easy] Blackjack!
+#  [5/5/2014] #161 [Easy] Blackjack!
 Text:  #Description:
 
 So went to a Casino recently. I noticed at the Blackjack tables the house tends to use several decks and not 1. My mind began to wonder about how likely natural blackjacks (getting an ace and a card worth 10 points on the deal) can occur.
@@ -3897,7 +3897,7 @@ Face value should match up. 2 for 2, 3 for 3, etc. Jacks, Queens and Kings are 1
 
 
 
-Title:  [5/12/2014] Challenge #162 [Easy] Novel Compression, pt. 1: Unpacking the Data
+#  [5/12/2014] Challenge #162 [Easy] Novel Compression, pt. 1: Unpacking the Data
 Text:  # [](#EasyIcon) _(Easy)_: Novel Compression, pt. 1: Unpacking the Data
 
 Welcome to this week's Theme Week. We're going to be creating our very own basic compression format for short novels or writing. This format will probably not be practical for actual use, but may serve as a rudimentary introduction to how data compression works. As a side task, it is advised to use structured programming techniques, so your program is easy to extend, modify and maintain later on (ie. later this week.) To keep in line with our Easy-Intermediate-Hard trend, our first step will be to write the **decompresser**.
@@ -3998,7 +3998,7 @@ Print the resultant decompressed data from your decompression algorithm, using t
     I do not like them anywhere.
     I do not like green eggs and ham.
     I do not like them, Sam-I-am.
-Title:  [5/19/2014] Challenge #163 [Easy] Probability Distribution of a 6 Sided Di
+#  [5/19/2014] Challenge #163 [Easy] Probability Distribution of a 6 Sided Di
 Text:  #Description: 
 
 Today's challenge we explore some curiosity in rolling a 6 sided di. I often wonder about the outcomes of a rolling a simple 6 side di in a game or even simulating the roll on a computer.
@@ -4049,7 +4049,7 @@ Do not just post your code. Also post your conclusion based on the simulation ou
 
 
 
-Title:  [5/26/2014] Challenge #164 [Easy] Assemble this Scheme into Python
+#  [5/26/2014] Challenge #164 [Easy] Assemble this Scheme into Python
 Text:  ##Description
 
 You have just been hired by the company 'Super-Corp 5000' and they require you to be up to speed on a new programming language you haven't yet tried.
@@ -4087,7 +4087,7 @@ Don't use a language you've had contact with before, otherwise this will be very
 
 
 
-Title:  [6/2/2014] Challenge #165 [Easy] ASCII Game of Life
+#  [6/2/2014] Challenge #165 [Easy] ASCII Game of Life
 Text:  # [](#EasyIcon) _(Easy)_: ASCII Game of Life
 
 Hello people. Sorry for submitting this early, but I have exams this week and the next so I'll have to submit these challenges a little bit early - I'm sure that's not an issue though! Welcome to June, and it's time for a run of similarly themed challenges - all of them will be based on ASCII data. Not too dissimilar to [this challenge](http://www.reddit.com/r/dailyprogrammer/comments/236va2/4162014_challenge_158_intermediate_part_1_the/) from a while ago.
@@ -4186,7 +4186,7 @@ To test your program, use one of the many online simulation programs. There are 
 
 
 
-Title:  [6/9/2014] Challenge #166 [Easy] ASCII Fractal Curves
+#  [6/9/2014] Challenge #166 [Easy] ASCII Fractal Curves
 Text:  # [](#EasyIcon) _(Easy)_: ASCII Fractal Curves
 
 Today we're going to set a more open-ended challenge. First, let's look at what a space-filling curve is.
@@ -4237,7 +4237,7 @@ Recursive algorithms will come in very handy here. You'll need to do some of you
 
 
 
-Title:  [6/14/2014] Challenge #166b [Easy] Planetary Gravity Calculator
+#  [6/14/2014] Challenge #166b [Easy] Planetary Gravity Calculator
 Text:  # [](#EasyIcon) _(Easy)_: Planetary Gravity Calculator
 
 Welcome to this week's rebooted challenges. While this challenge is very simple at its core (which I think gives it an Easy rating), it gives me a chance to teach a bit of physics while I'm at it, so I may as well!
@@ -4347,7 +4347,7 @@ You have a chance to utilise some OOP here. If your programming language support
 
 
 
-Title:  [6/16/2014] Challenge #167 [Easy] HTML markup generator
+#  [6/16/2014] Challenge #167 [Easy] HTML markup generator
 Text:  #Description
 You're a well known web-dev with far too much confidence, you mistakingly agreed to complete too many projects in too little a timeframe. In order to fix this, you devise a program that will automatically write all of the HTML for you!
 
@@ -4390,7 +4390,7 @@ Implement a good looking default CSS style-sheet that also gets automatically ge
 
 
 
-Title:  [6/23/2014] Challenge #168 [Easy] Final Grades - Test Data
+#  [6/23/2014] Challenge #168 [Easy] Final Grades - Test Data
 Text:  #Description:
 
 Last week we had [[6/18/2014] Challenge #167 [Intermediate] Final Grades] (http://www.reddit.com/r/dailyprogrammer/comments/28gq9b/6182014_challenge_167_intermediate_final_grades/) 
@@ -4430,7 +4430,7 @@ Also keep in mind the larger N values could more likely create duplicates. Consi
 
 
 
-Title:  [6/27/2014] Challenge #168 [Easy] String Index
+#  [6/27/2014] Challenge #168 [Easy] String Index
 Text:  #What no hard?:
 
 So my originally planned [Hard] has issues. So it is not ready for posting. I don't have another [Hard] so we are gonna do a nice [Easy] one for Friday for all of us to enjoy.
@@ -4462,7 +4462,7 @@ Your string:
 Find the words at these indexes and display them with a " " between them: 12 -1 1 -100 4 1000 9 -1000 16 13 17 15
 
 
-Title:  [6/30/2014] Challenge #169 [Easy] 90 Degree 2D Array Rotate
+#  [6/30/2014] Challenge #169 [Easy] 90 Degree 2D Array Rotate
 Text:  #Description:
 
 Given a NxN size 2D array of numbers. Develop a way to rotate the data as if you rotated the data by 90 degrees clockwise.
@@ -4506,7 +4506,7 @@ N = 10
 
 #Optional: 
 Show the 2D array at 90, 180, 270 degree clockwise from the original position.
-Title:  [7/7/2014] Challenge #170 [Easy] Blackjack Checker
+#  [7/7/2014] Challenge #170 [Easy] Blackjack Checker
 Text:  # [](#EasyIcon) _(Easy)_: Blackjack Checker
 
 [Blackjack](https://en.wikipedia.org/wiki/Blackjack) is a very common card game, where the primary aim is to pick up cards until your hand has a higher value than everyone else but is less than or equal to 21. This challenge will look at the outcome of the game, rather than playing the game itself.
@@ -4571,7 +4571,7 @@ You may want to re-use some code from your solution to [this challenge](http://w
 
 
 
-Title:  [7/14/2014] Challenge #171 [Easy] Hex to 8x8 Bitmap
+#  [7/14/2014] Challenge #171 [Easy] Hex to 8x8 Bitmap
 Text:  #Description:
 
 Today we will be making some simple 8x8 bitmap pictures. You will be given 8 hex values that can be 0-255 in decimal value (so 1 byte). Each value represents a row. So 8 rows of 8 bits so a 8x8 bitmap picture.
@@ -4622,7 +4622,7 @@ Here are 4 pictures to process and display:
 I used "x" but feel free to use any ASCII value you want. Heck if you want to display it using graphics, feel free to be creative here.
 
 
-Title:  [7/21/2014] Challenge #172 [Easy] ■■□□□▦■□
+#  [7/21/2014] Challenge #172 [Easy] ■■□□□▦■□
 Text:  #Description
 
 
@@ -4667,7 +4667,7 @@ Feel free to download software which would render your .PBM to the screen but fo
 
 
 
-Title:  [7/28/2014] Challenge #173 [Easy] Unit Calculator
+#  [7/28/2014] Challenge #173 [Easy] Unit Calculator
 Text:  # [](#EasyIcon) _(Easy): Unit Calculator
 
 You have a 30-centimetre ruler. Or is it a 11.8-inch ruler? Or is it even a 9.7-attoparsec ruler? It means the same thing, of course, but no-one can quite decide which one is the standard. To help people with this often-frustrating situation you've been tasked with creating a calculator to do the nasty conversion work for you.
@@ -4698,7 +4698,7 @@ Rather than creating a method to do each separate type of conversion, it's worth
 
 
 
-Title:  [8/04/2014] Challenge #174 [Easy] Thue-Morse Sequences
+#  [8/04/2014] Challenge #174 [Easy] Thue-Morse Sequences
 Text:  #Description:
 
 The Thue-Morse sequence is a binary sequence (of 0s and 1s) that never repeats. 
@@ -4737,7 +4737,7 @@ Note: Due to the size of the sequence it seems people are crashing beyond 25th o
 
 
 
-Title:  [8/11/2014] Challenge #175 [Easy] Bogo!
+#  [8/11/2014] Challenge #175 [Easy] Bogo!
 Text:  #Description
 
 A bogo sort is a purposefully inefficient algorithm for sorting a sequence. Today we will be using this for strings to test for equality.
@@ -4768,7 +4768,7 @@ http://www.dangermouse.net/esoteric/bogobogosort.html
 If you have designed an algorithm but it still hasn't finished sorting, if you can prove it WILL sort, you may post your proof.
 
 
-Title:  [8/18/2014] Challenge #176 [Easy] Spreadsheet Developer pt. 1: Cell Selection
+#  [8/18/2014] Challenge #176 [Easy] Spreadsheet Developer pt. 1: Cell Selection
 Text:  # [](#EasyIcon) _(Easy)_: Spreadsheet Developer pt. 1: Cell Selection
 
 Today and on Wednesday we will be developing a terminal-based spreadsheet package somewhat like [ed](http://en.wikipedia.org/wiki/Ed_%28text_editor%29) used to be. Today we'll be taking a look at the mechanism for selecting ranges of cells from textual data.
@@ -4839,7 +4839,7 @@ Then, on separate lines, print the co-ordinates of each selected cell.
 
 
 
-Title:  [8/22/2014] Challenge #176 [Easy] Pivot Table
+#  [8/22/2014] Challenge #176 [Easy] Pivot Table
 Text:  #Description:
 
 An interesting way to represent data is a pivot table. If you use spreadsheet programs like Excel you might have seen these before. If not then you are about to enjoy it.
@@ -4872,7 +4872,7 @@ I am sure a clever user will simply put the data in Excel and make a pivot table
 
 
 
-Title:  [8/25/2014] Challenge #177 [Easy] Quicksort
+#  [8/25/2014] Challenge #177 [Easy] Quicksort
 Text:  # [](#EasyIcon) *(Easy)*: Quicksort
 
 On a daily basis we take advantage of the power of a language's standard library. One of the common functions within such libraries is for sorting sets of data. This saves you some time so you don't have to write it yourself. But what about the occasions when you don't have a standard library?
@@ -4908,7 +4908,7 @@ If you have not already learned it, this is a golden opportunity to use and lear
 
 
 
-Title:  [9/01/2014] Challenge #178 [Easy] Transformers: Matrices in Disguise, pt. 1
+#  [9/01/2014] Challenge #178 [Easy] Transformers: Matrices in Disguise, pt. 1
 Text:  # [](#EasyIcon) *(Easy)*: Transformers: Matrices in Disguise, pt. 1
 
 Or, rather, transform*ation*s. Today we'll be doing a bit of basic geometry. We'll be writing a program which will take a point in 2-dimensional space, represented as `(X, Y)` (where X and Y can be decimal and negative), transform them a number of times in different ways and then find the final position of the point.
@@ -4968,7 +4968,7 @@ Print the final value of `(X, Y)` in the format:
 # Notes
 
 I want to say two things. First, this may be a good opportunity to learn your language's 2-D drawing capabilities - every time a command is given, represent it on an image like I have done with the examples, so you can see the path the co-ordinate has taken. Secondly, this is a multi-part challenge. I'm not sure how many parts there will be, however it may be a good idea to prepare for more possible commands (or, if you're crazy enough to use Prolog - you know who you are - write an EBNF parser like last time, lol.) If you know how, it would be clever to start using matrices for transformations now rather than later.
-Title:  [9/08/2014] Challenge #179 [Easy] You make me happy when clouds are gray...scale
+#  [9/08/2014] Challenge #179 [Easy] You make me happy when clouds are gray...scale
 Text:  #Description
 
 The 'Daily Business' newspaper are a distributor of the most recent news concerning business. They have a problem though, there is a new newspaper brought out every single day and up to this point, all of the images and advertisements featured have been in full colour and this is costing the company.
@@ -5009,7 +5009,7 @@ There is a formula to solve this, see if you can find it.
 
 
 
-Title:  [9/15/2014] Challenge#180 [Easy] Look'n'Say
+#  [9/15/2014] Challenge#180 [Easy] Look'n'Say
 Text:  #Description
 
 The Look and Say sequence is an interesting sequence of numbers where each term is given by describing the makeup of the previous term.
@@ -5037,7 +5037,7 @@ On console input you should enter a number N
 
 
 
-Title:  [09/22/2014] Challenge #181 [Easy] Basic Equations
+#  [09/22/2014] Challenge #181 [Easy] Basic Equations
 Text:  # [](#EasyIcon) _(Easy)_: Basic Equations
 
 Today, we'll be creating a simple calculator, that we may extend in later challenges. Assuming you have done basic algebra, you may have seen equations in the form [`y=ax+b`](http://latex.codecogs.com/gif.latex?y%3Dax&plus;b), where `a` and `b` are constants. This forms a graph of a straight line, when you plot `y` in respect to `x`. If you have not explored this concept yet, you can visualise a linear equation such as this using [this online tool](http://www.mathopenref.com/linearexplorer.html), which will plot it for you.
@@ -5094,7 +5094,7 @@ If you are new to the concept, this might be a good time to learn [regular expre
 Draw a graph with 2 lines to represent the inputted equations - preferably with 2 different colours. Draw a point or dot representing the point of intersection.
 
 
-Title:  [29/09/2014] Challenge #182 [Easy] The Column Conundrum
+#  [29/09/2014] Challenge #182 [Easy] The Column Conundrum
 Text:  # [](#EasyIcon) **(Easy)**: The Column Conundrum
 Text formatting is big business. Every day we read information in one of several formats. Scientific publications often have their text split into [two columns, like this](https://isotropic.org/papers/chicken.pdf). Websites are often bearing one major column and a sidebar column, such as Reddit itself. Newspapers very often have three to five columns. You've been commisioned by some bloke you met in Asda to write a program which, given some input text and some numbers, will split the data into the appropriate number of columns.
 
@@ -5134,7 +5134,7 @@ Split words correctly, like in my sample output.
 
 
 
-Title:  [10/06/2014] Challenge #183 [Easy] Semantic Version Sort
+#  [10/06/2014] Challenge #183 [Easy] Semantic Version Sort
 Text:  # [](#EasyIcon) __(Easy)__: Semantic Version Sort
 
 Semantic Versioning, or *Semver* as it's known on the streets, is an attempt to standardise the way that software versions are incrementally changed. In the world there are many different pieces of software whose developers have conflicting ideas about how software should be developed. For example, [Dwarf Fortress](http://www.bay12games.com/dwarves/) is currently at version 0.40.13, whereas [Google Chrome](https://en.wikipedia.org/wiki/Google_Chrome) (which has been around for 2 years *less* than Dwarf Fortress) is currently at version 37.0.2062.124. How can those version numbers even be compared? They both represent around the same progress of development but in totally different ways. Semantic versioning aims to solve this problem by splitting the version string into 3, 4 or 5 parts:
@@ -5204,7 +5204,7 @@ If your language does not support sorting of data structures by default, you cou
 
 
 
-Title:  [10/13/2014] Challenge #184 [Easy] Smart Stack List
+#  [10/13/2014] Challenge #184 [Easy] Smart Stack List
 Text:  #Description:
 
 We all know the famous link list. We can use these to hold data in a linear fashion. The link list can be used to implement a stack as well for example.
@@ -5253,7 +5253,7 @@ Develop a quick program that uses your smart stack list.
 
 
 
-Title:  [10/20/2014] Challenge #185 [Easy] Generated twitter handles
+#  [10/20/2014] Challenge #185 [Easy] Generated twitter handles
 Text:  #Description
 
 For those that don't tweet or know the workings of Twitter, you can reply to 'tweets' by replying to that user with an @ symbol and their username. 
@@ -5309,7 +5309,7 @@ dr@ ->(drat)
 
 
 
-Title:  [10/27/2014] Challenge #186 [Easy] Admin Schmadmin
+#  [10/27/2014] Challenge #186 [Easy] Admin Schmadmin
 Text:  #Description
 
 "I'm sorry we had to call you in at such small notice but our last admin royally screwed us over. I don't suppose you can have a scout through the files and see if there's any remnants of that slimeball left in our system can you? Any leftover documents, programs, CV's, ANYTHING you can find about him, I need it so I can finish him."
@@ -5380,7 +5380,7 @@ Beginners, consider using a shell environent for this. For windows I recommend P
 
 
 
-Title:  [11/03/2014] Challenge #187 [Easy] A Flagon of Flags
+#  [11/03/2014] Challenge #187 [Easy] A Flagon of Flags
 Text:  # [](#EasyIcon) **(Easy)**: A Flagon of Flags
 
 In the command-line world, programs are operated not with graphical user interfaces but with command line flags. These flags are what the operator uses to pass parameters to the program. The standard form of flag starts with a double hyphen `--` and consists of a word in `lower-case-separated-by-hyphens`. For example, to forcefully remove a directory recursively on Unix based systems, the command used may be:
@@ -5484,7 +5484,7 @@ Here is a [StackOverflow post](http://stackoverflow.com/questions/2160083/what-i
 
 
 
-Title:  [2014-11-10] Challenge #188 [Easy] yyyy-mm-dd
+#  [2014-11-10] Challenge #188 [Easy] yyyy-mm-dd
 Text:  #Description:
 
 iso 8601 standard for dates tells us the proper way to do an extended day is yyyy-mm-dd
@@ -5524,7 +5524,7 @@ Please do not post your 1000 dates converted. If you must use a gist or link to 
 
 #Challenge Idea:
 Thanks to all the people pointing out the iso standard  for dates in last week's intermediate challenge. Not only did it inspire today's easy challenge but help give us a weekly topic. You all are awesome :)
-Title:  [2014-11-17] Challenge #189 [Easy] Hangman!
+#  [2014-11-17] Challenge #189 [Easy] Hangman!
 Text:  We all know the classic game hangman, today we'll be making it. With the wonderful bonus that we are programmers and we can make it as hard or as easy as we want. [here](http://www.joereynoldsaudio.com/wordlist.txt) is a wordlist to use if you don't already have one. That wordlist comprises of words spanning 3 - 15+ letter words in length so there is plenty of scope to make this interesting!
 
 #Rules
@@ -5577,7 +5577,7 @@ The output will occur in steps as it is a turn based game. The final condition i
 
 
 
-Title:  [2014-11-24] Challenge #190 [Easy] Webscraping sentiments
+#  [2014-11-24] Challenge #190 [Easy] Webscraping sentiments
 Text:  #Description
 
 Webscraping is the delicate process of gathering information from a website (usually) without the assistance of an API. Without an API, it often involves finding what ID or CLASS a certain HTML element has and then targeting it. In our latest challenge, we'll need to do this (you're free to use an API, but, where's the fun in that!?) to find out the overall sentiment of a sample size of people.
@@ -5629,7 +5629,7 @@ The string for a Youtube comment is the following
 
 
 
-Title:  [2014-12-1] Challenge #191 [Easy] Word Counting
+#  [2014-12-1] Challenge #191 [Easy] Word Counting
 Text:  You've recently taken an internship at an up and coming lingustic and natural language centre. Unfortunately, as with real life, the professors have allocated you the mundane task of counting every single word in a book and finding out how many occurences of each word there are. 
 
 To them, this task would take hours but they are unaware of your programming background (They really didn't assess the candidates much). Impress them with that word count by the end of the day and you're surely in for more smooth sailing.
@@ -5667,7 +5667,7 @@ As a bonus, only extract the book's contents and nothing else.
 
 
 
-Title:  [2014-12-8] Challenge #192 [Easy] Carry Adding
+#  [2014-12-8] Challenge #192 [Easy] Carry Adding
 Text:  # [](#EasyIcon) **(Easy)**: Carry Adding
 
 When you were first learning arithmetic, the way most people were tought to set out addition problems was like follows:
@@ -5769,7 +5769,7 @@ Extend your program to handle non-integer (ie. decimal) numbers.
 
 
 
-Title:  [2014-12-15] Challenge #193 [Easy] A Cube, Ball, Cylinder, Cone walk into a warehouse
+#  [2014-12-15] Challenge #193 [Easy] A Cube, Ball, Cylinder, Cone walk into a warehouse
 Text:  #Description:
 
 An international shipping company is trying to figure out how to manufacture various types of containers. Given a volume they want to figure out the dimensions of various shapes that would all hold the same volume.
@@ -5805,7 +5805,7 @@ The following containers are possible.
 
 
 
-Title:  [2014-12-19] Challenge #193 [Easy] Acronym Expander
+#  [2014-12-19] Challenge #193 [Easy] Acronym Expander
 Text:  #Description
 
 During online gaming (or any video game that requires teamwork) , there is often times that you need to speak to your teammates. Given the nature of the game, it may be inconvenient to say full sentences and it's for this reason that a lot of games have acronyms in place of sentences that are regularly said.
@@ -5874,7 +5874,7 @@ Below is a short list of acronyms paired with their meaning to use for this chal
 
 
 
-Title:  [2014-12-22] Challenge #194 [Easy] Destringification
+#  [2014-12-22] Challenge #194 [Easy] Destringification
 Text:  # [](#EasyIcon) **(Easy)**: Destringification
 
 Most programming languages understand the concept of escaping strings. For example, if you wanted to put a double-quote `"` into a string that is delimited by double quotes, you can't just do this:
@@ -5972,7 +5972,7 @@ The gap between string literals can only be whitespace (ie. new lines, spaces, t
 
 
 
-Title:  [2014-12-28] Challenge #195 [Easy] Symbolic Link Resolution
+#  [2014-12-28] Challenge #195 [Easy] Symbolic Link Resolution
 Text:  # [](#EasyIcon) **(Easy)**: Symbolic Link Resolution
 
 Many Unix-based systems support the concept of a **symbolic link**. This is where one directory name is transparently mapped to another. Before we look further at symbolic links, here's a brief primer on Unix paths.
@@ -6068,7 +6068,7 @@ This should resolve correctly into `/usr/local/include/SDL/stan`.
 
 
 
-Title:  [2015-01-12] Challenge #197 [Easy] ISBN Validator
+#  [2015-01-12] Challenge #197 [Easy] ISBN Validator
 Text:  #Description
 
 ISBN's (International Standard Book Numbers) are identifiers for books. Given the correct sequence of digits, one book can be identified out of millions of others thanks to this ISBN. But when is an ISBN not just a random slurry of digits? That's for you to find out.
@@ -6097,7 +6097,7 @@ Write an ISBN generator. That is, a programme that will output a valid ISBN numb
 
 
 
-Title:  [2015-01-19] Challenge #198 [Easy] Words with Enemies
+#  [2015-01-19] Challenge #198 [Easy] Words with Enemies
 Text:  #Description:
 
 I had a dream a few weeks back that I thought would be a good challenge. I woke up early and quickly typed up a text description so I wouldn't forget (Seriously, it was about 5am and when I explained it to my wife she just laughed at me)
@@ -6155,7 +6155,7 @@ List the extra letters left over after they collide and explode in mid air and d
 
 
 
-Title:  [2015-1-26] Challenge #199 Bank Number Banners Pt 1
+#  [2015-1-26] Challenge #199 Bank Number Banners Pt 1
 Text:  # Description
 
 You work for a bank, which has recently purchased an ingenious machine to assist in reading letters and faxes sent in by branch offices. The machine scans the paper documents, and produces a file with a number of entries which each look like this:
@@ -6196,7 +6196,7 @@ You'll be given a series of numbers and you have to parse them into the previous
 
 
 
-Title:  [2015-02-02] Challenge #200 [Easy] Flood-Fill
+#  [2015-02-02] Challenge #200 [Easy] Flood-Fill
 Text:  # [](#EasyIcon) _(Easy)_: Flood-Fill
 
 Flood-fill is a tool used in essentially any image editing program that's worth its salt. It allows you to fill in any contigious region of colour with another colour, like flooding a depression in a board with paint. For example, take [this beautiful image](http://i.imgur.com/NlCcrKj.png). If I was to flood-fill the colour orange into [this region of the image](http://i.imgur.com/yCavN08.png), then that region would be [turned completely orange](http://i.imgur.com/u6626BA.png).
@@ -6373,7 +6373,7 @@ Consider using list-like data structures in your solution, too.
 
 
 
-Title:  [2015-02-09] Challenge #201 [Easy] Counting the Days until...
+#  [2015-02-09] Challenge #201 [Easy] Counting the Days until...
 Text:  #Description:
 
 Sometimes you wonder. How many days I have left until.....Whatever date you are curious about. Maybe a holiday. Maybe a vacation. Maybe a special event like a birthday. 
@@ -6411,7 +6411,7 @@ Vary from the date you will run the solution and I leave it to you all to compar
 
 
 
-Title:  [2015-02-16] Challenge #202 [Easy] I AM BENDER. PLEASE INSERT GIRDER.
+#  [2015-02-16] Challenge #202 [Easy] I AM BENDER. PLEASE INSERT GIRDER.
 Text:  #Description
 
 Poor Mr.Tinkles is having some troubles. Similar to [The Loneliest Whale In The World](http://en.wikipedia.org/wiki/52-hertz_whale), no one can hear his cries. Or in this case, understand them.
@@ -6472,7 +6472,7 @@ Output
 
 
 
-Title:  [2015-2-23] Challenge #203 [Easy] The Start of Something Big
+#  [2015-2-23] Challenge #203 [Easy] The Start of Something Big
 Text:  #Description
 All great things start with something small. Sometimes people [don't even realise what goes into making a 'small' thing](http://rampantgames.com/blog/?p=7745).
 
@@ -6494,7 +6494,7 @@ The square may be of any size and of any colour.
 
 
 
-Title:  [2015-03-02] Challenge #204 [Easy] Remembering your lines
+#  [2015-03-02] Challenge #204 [Easy] Remembering your lines
 Text:  #Description
 
 I didn't always want to be a computer programmer, you know. I used to have dreams, dreams of standing on the world stage, being one of the great actors of my generation!
@@ -6599,7 +6599,7 @@ If you're itching to do a little bit more work on this, output some more informa
 
 
 
-Title:  [2015-03-09] Challenge #205 [Easy] Friendly Date Ranges
+#  [2015-03-09] Challenge #205 [Easy] Friendly Date Ranges
 Text:  # [](#EasyIcon) _(Easy)_: Friendly Date Ranges
 
 The goal of this challenge is to implement a way of converting two dates into a more friendly date range that could be presented to a user. It must not show any redundant information in the date range. For example, if the year and month are the same in the start and end dates, then only the day range should be displayed. Secondly, if the starting year is the current year, and the ending year can be inferred by the reader, the year should be omitted also (see below for examples).
@@ -6665,7 +6665,7 @@ You only need to handle date format strings `DMY`, `MDY`, `YMD` and `YDM`.
 
 
 
-Title:  [2015-03-16] Challenge #206 [Easy] Recurrence Relations, part 1
+#  [2015-03-16] Challenge #206 [Easy] Recurrence Relations, part 1
 Text:  # [](#EasyIcon) _(Easy)_: Recurrence Relations, part 1
 
 A recurrence relation is a mathematical construct for defining a series of numbers. It works by first giving an initial term, and then recursively defining the rest of the series as functions of the first one. For example, let's say we have a series of numbers called **u**, which is defined by this recurrence relation:
@@ -6804,7 +6804,7 @@ More on recurrence relations [on Wikipedia](http://en.wikipedia.org/wiki/Recurre
 
 
 
-Title:  [2015-03-23] Challenge #207 [Easy] Bioinformatics 1: DNA Replication
+#  [2015-03-23] Challenge #207 [Easy] Bioinformatics 1: DNA Replication
 Text:  For this week my theme is bioinformatics, I hope you enjoy the taste of the field through these challenges. 
 
 # Description
@@ -6855,7 +6855,7 @@ For this part of the challenge, you should implement functionality for translati
 
 
 
-Title:  [2015-03-30] Challenge #208 [Easy] Culling Numbers
+#  [2015-03-30] Challenge #208 [Easy] Culling Numbers
 Text:  #Description:
 
 Numbers surround us. Almost too much sometimes. It would be good to just cut these numbers down and cull out the repeats.
@@ -6892,7 +6892,7 @@ Your output would simply be:
 
 
 
-Title:  [2015-04-06] Challenge #209 [Easy] The Button can be pressed but once...
+#  [2015-04-06] Challenge #209 [Easy] The Button can be pressed but once...
 Text:  # [](#EasyIcon) _(Easy)_: The Button can be pressed but once...
 
 The 1st of April brought [the Button](/r/thebutton) to Reddit - if you've not heard of it, read the blog post on it [here](http://www.redditblog.com/2015/04/the-button.html). The value of the countdown at the instant that someone presses the button determines the flair that they obtain on the subreddit. For example, if the counter is at 53.04 seconds, then I would obtain a **53** flair, as that is the number of seconds (rounded down). After a person presses the button, the countdown resets from 60.00 seconds. Today's challenge is simple - you'll be given a list of users in no particular order, and told at which time each user pressed the button; you'll need to work out which flair each user gets.
@@ -6978,7 +6978,7 @@ UserG clicked the button last, and so they are printed last - when they clicked 
 
 
 
-Title:  [2015-04-13] Challenge #210 [Easy] intHarmony.com
+#  [2015-04-13] Challenge #210 [Easy] intHarmony.com
 Text:  #Description:
 
 In this modern fast paced time of the internet it is a busy place for hardworking unsigned integers (lets just call them ints) Believe it or not these ints love to date and hook up. But they don't always get along. 
@@ -7063,7 +7063,7 @@ Okay so not a great match but at intHarmony.com but we have done our job.
 
 
 
-Title:  [2015-04-20] Challenge #211 [Easy] The Name Game
+#  [2015-04-20] Challenge #211 [Easy] The Name Game
 Text:  #Description
 
 If computer programmers had a "patron musician" (if such a thing even exists), it would surely be the great [Shirley Ellis](http://en.wikipedia.org/wiki/Shirley_Ellis). It is my opinion that in the history of music, not song has ever come closer to replicating the experience of programming as her 1964 novelty hit [The Name Game](https://www.youtube.com/watch?v=5MJLi5_dyn0). In the lyrics of that song she lays out quite an elegant and fun algorithm for making a rhyme out of anybody's name. The lyrics are almost like sung pseudo-code!
@@ -7149,7 +7149,7 @@ Your username! Or even, if you feel comfortable sharing it, your real name! Or e
 
 
 
-Title:  [2015-04-27] Challenge #212 [Easy] Rövarspråket
+#  [2015-04-27] Challenge #212 [Easy] Rövarspråket
 Text:  # Description
 
 When we Swedes are young, we are taught a SUPER-SECRET language that only kids know, so we can hide secrets from our confused parents. This language is known as "Rövarspråket" (which means "Robber's language", more or less), and is surprisingly easy to become fluent in, at least when you're a kid. Recently, the cheeky residents of /r/Sweden decided to play a trick on the rest on reddit, and get a thread entirely in Rövarspråket to /r/all. [The results were hilarious](http://np.reddit.com/r/sweden/comments/301sqr/dodetot_%C3%A4ror_fof%C3%B6ror_lolitote/). 
@@ -7213,7 +7213,7 @@ Make your program able to decode a Rövarspråket-encoded sentence as well as en
 
 
 
-Title:  [2015-05-04] Challenge #213 [Easy] Pronouncing Hex
+#  [2015-05-04] Challenge #213 [Easy] Pronouncing Hex
 Text:  # Description
 
 The HBO network show "Silicon Valley" has introduced a way to pronounce hex.
@@ -7270,7 +7270,7 @@ Your program should emit the pronounced hex. Examples from above:
 
 
 
-Title:  [2015-05-11] Challenge #214 [Easy] Calculating the standard deviation
+#  [2015-05-11] Challenge #214 [Easy] Calculating the standard deviation
 Text:  # Description
 
 **Standard deviation** is one of the most basic measurments in statistics. For some collection of values (known as a "population" in statistics), it measures how dispersed those values are. If the standard deviation is high, it means that the values in the population are very spread out; if it's low, it means that the values are tightly clustered around the mean value.
@@ -7335,7 +7335,7 @@ For you statistics nerds out there, note that this is the *population* standard 
 
 
 
-Title:  [2015-05-18] Challenge #215 [Easy] Sad Cycles
+#  [2015-05-18] Challenge #215 [Easy] Sad Cycles
 Text:  # [](#EasyIcon) _(Easy)_: Sad Cycles
 
 Take a number, and add up the square of each digit. You'll end up with another number. If you repeat this process over and over again, you'll see that one of two things happen:
@@ -7440,7 +7440,7 @@ If you don't like this new sorting, you can still change the method back to **so
 
 
 
-Title:  [2015-05-25] Challenge #216 [Easy] Texas Hold 'Em 1 of 3 - Let's deal.
+#  [2015-05-25] Challenge #216 [Easy] Texas Hold 'Em 1 of 3 - Let's deal.
 Text:  #Theme Week:
 
 I got the whole week so I am merging all 3 challenges into a theme of Texas Hold 'em Poker. All 3 challenges will be related on this popular card game of poker. 
@@ -7486,7 +7486,7 @@ In the intermediate you will be asked to compare various hands of poker to find 
 
 
 
-Title:  [2015-06-01] Challenge #217 [Easy] Lumberjack Pile Problem
+#  [2015-06-01] Challenge #217 [Easy] Lumberjack Pile Problem
 Text:  #Description: 
 
 The famous lumberjacks of /r/dailyprogrammer are well known to be weird and interesting. But we always enjoy solving their problems with some code.
@@ -7593,7 +7593,7 @@ Please solve the challenge using these inputs:
 
 
 
-Title:  [2015-06-08] Challenge #218 [Easy] Making numbers palindromic
+#  [2015-06-08] Challenge #218 [Easy] Making numbers palindromic
 Text:  
 # Description
 To covert nearly any number into a palindromic number you operate by reversing the digits and adding and then repeating the steps until you get a palindromic number. Some require many steps.
@@ -7638,7 +7638,7 @@ Bonus 2: See which numbers don't get palindromic in under 10000 steps. Numbers t
 
 
 
-Title:  [2015-06-15] Challenge #218 [Easy] To-do list (Part 1)
+#  [2015-06-15] Challenge #218 [Easy] To-do list (Part 1)
 Text:  #Description
 
 Todays challenge will be something slightly different! Atleast I think the challenge is meant to be for today? Wait, am I meant to even be submitting today? 
@@ -7685,7 +7685,7 @@ Outputs:
 
 
 
-Title:  [2015-06-22] Challenge #220 [Easy] Mangling sentences
+#  [2015-06-22] Challenge #220 [Easy] Mangling sentences
 Text:  #Description
 
 In this challenge, we are going to take a sentence and mangle it up by sorting the letters in each word. So, for instance, if you take the word "hello" and sort the letters in it, you get "ehllo". If you take the two words "hello world", and sort the letters in each word, you get "ehllo dlorw". 
@@ -7738,7 +7738,7 @@ To be clear, only spaces separate words, not any other kind of punctuation. So "
 
 
 
-Title:  [2015-06-29] Challenge #221 [Easy] Word snake
+#  [2015-06-29] Challenge #221 [Easy] Word snake
 Text:  #Description
 
 A word snake is (unsurprisingly) a snake made up of a sequence of words. 
@@ -7839,7 +7839,7 @@ There are of course many possible outputs for each inputs, these just show a sam
 
 
 
-Title:  [2015-07-06] Challenge #222 [Easy] Balancing Words
+#  [2015-07-06] Challenge #222 [Easy] Balancing Words
 Text:  # Description
 
 Today we're going to balance words on one of the letters in them. We'll use the position and letter itself to calculate the weight around the balance point. A word can be balanced if the weight on either side of the balance point is equal. Not all words can be balanced, but those that can are interesting for this challenge.
@@ -7883,7 +7883,7 @@ This indicates that the T is the balance point and that the weight on either sid
     SUPERGLUE DOES NOT BALANCE
 
 
-Title:  [2015-07-13] Challenge #223 [Easy] Garland words
+#  [2015-07-13] Challenge #223 [Easy] Garland words
 Text:  # Description
 
 A [_garland word_](http://blog.vivekhaldar.com/post/89763722591/garland-words) is one that starts and ends with the same N letters in the same order, for some N greater than 0, but less than the length of the word. I'll call the maximum N for which this works the garland word's _degree_. For instance, "onion" is a garland word of degree 2, because its first 2 letters "on" are the same as its last 2 letters. The name "garland word" comes from the fact that you can make chains of the word in this manner:
@@ -7907,7 +7907,7 @@ Today's challenge is to write a function `garland` that, given a lowercase word,
 
 
 
-Title:  [2015-07-20] Challenge #224 [Easy] Shuffling a List
+#  [2015-07-20] Challenge #224 [Easy] Shuffling a List
 Text:  # Description
 
 We've had our fair share of sorting algorithms, now let's do a *shuffling* challenge. In this challenge, your challenge is to take a list of inputs and change around the order in random ways. Think about shuffling cards - can your program shuffle cards?
@@ -7946,7 +7946,7 @@ Check out the [Faro shuffle](https://en.wikipedia.org/wiki/Faro_shuffle) and the
 
 
 
-Title:  [2015-07-27] Challenge #225 [Easy/Intermediate] De-columnizing
+#  [2015-07-27] Challenge #225 [Easy/Intermediate] De-columnizing
 Text:  # [](#EasyIcon) _(Easy/Intermediate)_: De-columnizing
 
 Often, column-style writing will put images and features to the left or right of the body of text, for example:
@@ -8103,7 +8103,7 @@ Duis aute irure dolor in repre-henderit in voluptate velit esse cillum dolore eu
 
 
 
-Title:  [2015-08-03] Challenge #226 [Easy] Adding fractions
+#  [2015-08-03] Challenge #226 [Easy] Adding fractions
 Text:  #Description 
 
 Fractions are the bane of existence for many elementary and middle-schoolers. They're sort-of hard to get your head around (though thinking of them as pizza slices turned out to be very helpful for me), but even worse is that they're so hard to calculate with! Even adding them together is no picknick. 
@@ -8179,7 +8179,7 @@ The output will be a single line, containing the resulting fraction reduced so t
 
 
 
-Title:  [2015-08-10] Challenge #227 [Easy] Square Spirals
+#  [2015-08-10] Challenge #227 [Easy] Square Spirals
 Text:  # [](#EasyIcon) __(Easy)__: Square Spirals
 
 Take a square grid, and put a cross on the center point, like this:
